@@ -1,6 +1,5 @@
-[
-  {
-    "Country_ISO3": "ABW",
+{
+  "ABW": {
     "Country_ISO2": "AW",
     "Country": "Aruba",
     "Country_Abr": "Aruba",
@@ -16,8 +15,7 @@
     "Longitude": "-70,0086306",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ABW.png"
   },
-  {
-    "Country_ISO3": "AFG",
+  "AFG": {
     "Country_ISO2": "AF",
     "Country": "Afghanistan",
     "Country_Abr": "Afghanistan",
@@ -33,8 +31,7 @@
     "Longitude": "69,207486",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AFG.png"
   },
-  {
-    "Country_ISO3": "AGO",
+  "AGO": {
     "Country_ISO2": "AO",
     "Country": "Angola",
     "Country_Abr": "Angola",
@@ -50,8 +47,7 @@
     "Longitude": "13,2301756",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AGO.png"
   },
-  {
-    "Country_ISO3": "AIA",
+  "AIA": {
     "Country_ISO2": "AI",
     "Country": "Anguilla",
     "Country_Abr": "Anguilla",
@@ -67,8 +63,7 @@
     "Longitude": "-63,0574406",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AIA.png"
   },
-  {
-    "Country_ISO3": "ALA",
+  "ALA": {
     "Country_ISO2": "AX",
     "Country": "Åland Islands",
     "Country_Abr": "Åland Islands",
@@ -84,8 +79,7 @@
     "Longitude": "19,9348339",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ALA.png"
   },
-  {
-    "Country_ISO3": "ALB",
+  "ALB": {
     "Country_ISO2": "AL",
     "Country": "Albania",
     "Country_Abr": "Albania",
@@ -101,8 +95,7 @@
     "Longitude": "19,8186982",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ALB.png"
   },
-  {
-    "Country_ISO3": "AND",
+  "AND": {
     "Country_ISO2": "AD",
     "Country": "Andorra",
     "Country_Abr": "Andorra",
@@ -118,8 +111,7 @@
     "Longitude": "1,5218355",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AND.png"
   },
-  {
-    "Country_ISO3": "ARE",
+  "ARE": {
     "Country_ISO2": "AE",
     "Country": "United Arab Emirates",
     "Country_Abr": "UAE",
@@ -135,8 +127,7 @@
     "Longitude": "54,3773438",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ARE.png"
   },
-  {
-    "Country_ISO3": "ARG",
+  "ARG": {
     "Country_ISO2": "AR",
     "Country": "Argentina",
     "Country_Abr": "Argentina",
@@ -152,8 +143,7 @@
     "Longitude": "-58,3815591",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ARG.png"
   },
-  {
-    "Country_ISO3": "ARM",
+  "ARM": {
     "Country_ISO2": "AM",
     "Country": "Armenia",
     "Country_Abr": "Armenia",
@@ -169,8 +159,7 @@
     "Longitude": "44,515209",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ARM.png"
   },
-  {
-    "Country_ISO3": "ASM",
+  "ASM": {
     "Country_ISO2": "AS",
     "Country": "American Samoa",
     "Country_Abr": "American Samoa",
@@ -186,8 +175,7 @@
     "Longitude": "-170,7020359",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ASM.png"
   },
-  {
-    "Country_ISO3": "ATA",
+  "ATA": {
     "Country_ISO2": "AQ",
     "Country": "Antarctica",
     "Country_Abr": "Antarctica",
@@ -203,8 +191,7 @@
     "Longitude": "-68,3029511",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ATA.png"
   },
-  {
-    "Country_ISO3": "ATF",
+  "ATF": {
     "Country_ISO2": "TF",
     "Country": "French Southern Territories",
     "Country_Abr": "French Southern Territories",
@@ -220,8 +207,7 @@
     "Longitude": "70,2180039",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ATF.png"
   },
-  {
-    "Country_ISO3": "ATG",
+  "ATG": {
     "Country_ISO2": "AG",
     "Country": "Antigua and Barbuda",
     "Country_Abr": "Antigua and Barbuda",
@@ -237,8 +223,7 @@
     "Longitude": "-61,846772",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ATG.png"
   },
-  {
-    "Country_ISO3": "AUS",
+  "AUS": {
     "Country_ISO2": "AU",
     "Country": "Australia",
     "Country_Abr": "Australia",
@@ -254,8 +239,7 @@
     "Longitude": "149,1310038",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AUS.png"
   },
-  {
-    "Country_ISO3": "AUT",
+  "AUT": {
     "Country_ISO2": "AT",
     "Country": "Austria",
     "Country_Abr": "Austria",
@@ -271,8 +255,7 @@
     "Longitude": "16,3738189",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AUT.png"
   },
-  {
-    "Country_ISO3": "AZE",
+  "AZE": {
     "Country_ISO2": "AZ",
     "Country": "Azerbaijan",
     "Country_Abr": "Azerbaijan",
@@ -288,8 +271,7 @@
     "Longitude": "49,8670924",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/AZE.png"
   },
-  {
-    "Country_ISO3": "BDI",
+  "BDI": {
     "Country_ISO2": "BI",
     "Country": "Burundi",
     "Country_Abr": "Burundi",
@@ -305,8 +287,7 @@
     "Longitude": "29,3598782",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BDI.png"
   },
-  {
-    "Country_ISO3": "BEL",
+  "BEL": {
     "Country_ISO2": "BE",
     "Country": "Belgium",
     "Country_Abr": "Belgium",
@@ -322,8 +303,7 @@
     "Longitude": "4,3571696",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BEL.png"
   },
-  {
-    "Country_ISO3": "BEN",
+  "BEN": {
     "Country_ISO2": "BJ",
     "Country": "Benin",
     "Country_Abr": "Benin",
@@ -339,8 +319,7 @@
     "Longitude": "2,6288523",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BEN.png"
   },
-  {
-    "Country_ISO3": "BES",
+  "BES": {
     "Country_ISO2": "BQ",
     "Country": "Bonaire, Sint Eustatius and Saba",
     "Country_Abr": "Bonaire",
@@ -356,8 +335,7 @@
     "Longitude": "-68,2655456",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BES.png"
   },
-  {
-    "Country_ISO3": "BFA",
+  "BFA": {
     "Country_ISO2": "BF",
     "Country": "Burkina Faso",
     "Country_Abr": "Burkina Faso",
@@ -373,8 +351,7 @@
     "Longitude": "-1,5196603",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BFA.png"
   },
-  {
-    "Country_ISO3": "BGD",
+  "BGD": {
     "Country_ISO2": "BD",
     "Country": "Bangladesh",
     "Country_Abr": "Bangladesh",
@@ -390,8 +367,7 @@
     "Longitude": "90,4125181",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BGD.png"
   },
-  {
-    "Country_ISO3": "BGR",
+  "BGR": {
     "Country_ISO2": "BG",
     "Country": "Bulgaria",
     "Country_Abr": "Bulgaria",
@@ -407,8 +383,7 @@
     "Longitude": "23,3218675",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BGR.png"
   },
-  {
-    "Country_ISO3": "BHR",
+  "BHR": {
     "Country_ISO2": "BH",
     "Country": "Bahrain",
     "Country_Abr": "Bahrain",
@@ -424,8 +399,7 @@
     "Longitude": "50,5875935",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BHR.png"
   },
-  {
-    "Country_ISO3": "BHS",
+  "BHS": {
     "Country_ISO2": "BS",
     "Country": "Bahamas",
     "Country_Abr": "Bahamas",
@@ -441,8 +415,7 @@
     "Longitude": "-77,3503609",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BHS.png"
   },
-  {
-    "Country_ISO3": "BIH",
+  "BIH": {
     "Country_ISO2": "BA",
     "Country": "Bosnia and Herzegovina",
     "Country_Abr": "Bosnia and Herzegovina",
@@ -458,8 +431,7 @@
     "Longitude": "18,4130763",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BIH.png"
   },
-  {
-    "Country_ISO3": "BLM",
+  "BLM": {
     "Country_ISO2": "BL",
     "Country": "Saint Barthélemy",
     "Country_Abr": "Saint Barthélemy",
@@ -475,8 +447,7 @@
     "Longitude": "-62,852201",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BLM.png"
   },
-  {
-    "Country_ISO3": "BLR",
+  "BLR": {
     "Country_ISO2": "BY",
     "Country": "Belarus",
     "Country_Abr": "Belarus",
@@ -492,8 +463,7 @@
     "Longitude": "27,558972",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BLR.png"
   },
-  {
-    "Country_ISO3": "BLZ",
+  "BLZ": {
     "Country_ISO2": "BZ",
     "Country": "Belize",
     "Country_Abr": "Belize",
@@ -509,8 +479,7 @@
     "Longitude": "-88,7590201",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BLZ.png"
   },
-  {
-    "Country_ISO3": "BMU",
+  "BMU": {
     "Country_ISO2": "BM",
     "Country": "Bermuda",
     "Country_Abr": "Bermuda",
@@ -526,8 +495,7 @@
     "Longitude": "-64,7858887",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BMU.png"
   },
-  {
-    "Country_ISO3": "BOL",
+  "BOL": {
     "Country_ISO2": "BO",
     "Country": "Bolivia",
     "Country_Abr": "Bolivia",
@@ -543,8 +511,7 @@
     "Longitude": "-65,2592128",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BOL.png"
   },
-  {
-    "Country_ISO3": "BRA",
+  "BRA": {
     "Country_ISO2": "BR",
     "Country": "Brazil",
     "Country_Abr": "Brazil",
@@ -560,8 +527,7 @@
     "Longitude": "-47,8918874",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BRA.png"
   },
-  {
-    "Country_ISO3": "BRB",
+  "BRB": {
     "Country_ISO2": "BB",
     "Country": "Barbados",
     "Country_Abr": "Barbados",
@@ -577,8 +543,7 @@
     "Longitude": "-59,6131741",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BRB.png"
   },
-  {
-    "Country_ISO3": "BRN",
+  "BRN": {
     "Country_ISO2": "BN",
     "Country": "Brunei Darussalam",
     "Country_Abr": "Brunei Darussalam",
@@ -594,8 +559,7 @@
     "Longitude": "114,939821",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BRN.png"
   },
-  {
-    "Country_ISO3": "BTN",
+  "BTN": {
     "Country_ISO2": "BT",
     "Country": "Bhutan",
     "Country_Abr": "Bhutan",
@@ -611,8 +575,7 @@
     "Longitude": "89,6339041",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BTN.png"
   },
-  {
-    "Country_ISO3": "BVT",
+  "BVT": {
     "Country_ISO2": "BV",
     "Country": "Bouvet Island",
     "Country_Abr": "Bouvet Island",
@@ -628,8 +591,7 @@
     "Longitude": "3,3464497",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BVT.png"
   },
-  {
-    "Country_ISO3": "BWA",
+  "BWA": {
     "Country_ISO2": "BW",
     "Country": "Botswana",
     "Country_Abr": "Botswana",
@@ -645,8 +607,7 @@
     "Longitude": "25,9231471",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/BWA.png"
   },
-  {
-    "Country_ISO3": "CAF",
+  "CAF": {
     "Country_ISO2": "CF",
     "Country": "Central African Republic",
     "Country_Abr": "Central African Republic",
@@ -662,8 +623,7 @@
     "Longitude": "18,5581899",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CAF.png"
   },
-  {
-    "Country_ISO3": "CAN",
+  "CAN": {
     "Country_ISO2": "CA",
     "Country": "Canada",
     "Country_Abr": "Canada",
@@ -679,8 +639,7 @@
     "Longitude": "-75,6971931",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CAN.png"
   },
-  {
-    "Country_ISO3": "CCK",
+  "CCK": {
     "Country_ISO2": "CC",
     "Country": "Cocos (Keeling) Islands",
     "Country_Abr": "Cocos Islands",
@@ -696,8 +655,7 @@
     "Longitude": "96,8217017",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CCK.png"
   },
-  {
-    "Country_ISO3": "CHE",
+  "CHE": {
     "Country_ISO2": "CH",
     "Country": "Switzerland",
     "Country_Abr": "Switzerland",
@@ -713,8 +671,7 @@
     "Longitude": "7,4474468",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CHE.png"
   },
-  {
-    "Country_ISO3": "CHL",
+  "CHL": {
     "Country_ISO2": "CL",
     "Country": "Chile",
     "Country_Abr": "Chile",
@@ -730,8 +687,7 @@
     "Longitude": "-70,6692655",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CHL.png"
   },
-  {
-    "Country_ISO3": "CHN",
+  "CHN": {
     "Country_ISO2": "CN",
     "Country": "China",
     "Country_Abr": "China",
@@ -747,8 +703,7 @@
     "Longitude": "116,407395",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CHN.png"
   },
-  {
-    "Country_ISO3": "CIV",
+  "CIV": {
     "Country_ISO2": "CI",
     "Country": "Côte d'Ivoire",
     "Country_Abr": "Côte d'Ivoire",
@@ -764,8 +719,7 @@
     "Longitude": "-5,2893433",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CIV.png"
   },
-  {
-    "Country_ISO3": "CMR",
+  "CMR": {
     "Country_ISO2": "CM",
     "Country": "Cameroon",
     "Country_Abr": "Cameroon",
@@ -781,8 +735,7 @@
     "Longitude": "11,5020752",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CMR.png"
   },
-  {
-    "Country_ISO3": "COD",
+  "COD": {
     "Country_ISO2": "CD",
     "Country": "Republic of the Congo",
     "Country_Abr": "Republic of the Congo",
@@ -798,8 +751,7 @@
     "Longitude": "15,2662931",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/COD.png"
   },
-  {
-    "Country_ISO3": "COG",
+  "COG": {
     "Country_ISO2": "CG",
     "Country": "Congo",
     "Country_Abr": "Congo",
@@ -815,8 +767,7 @@
     "Longitude": "15,827659",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/COG.png"
   },
-  {
-    "Country_ISO3": "COK",
+  "COK": {
     "Country_ISO2": "CK",
     "Country": "Cook Islands",
     "Country_Abr": "Cook Islands",
@@ -832,8 +783,7 @@
     "Longitude": "-159,7823059",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/COK.png"
   },
-  {
-    "Country_ISO3": "COL",
+  "COL": {
     "Country_ISO2": "CO",
     "Country": "Colombia",
     "Country_Abr": "Colombia",
@@ -849,8 +799,7 @@
     "Longitude": "-74,072092",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/COL.png"
   },
-  {
-    "Country_ISO3": "COM",
+  "COM": {
     "Country_ISO2": "KM",
     "Country": "Comoros",
     "Country_Abr": "Comoros",
@@ -866,8 +815,7 @@
     "Longitude": "43,2473146",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/COM.png"
   },
-  {
-    "Country_ISO3": "CPV",
+  "CPV": {
     "Country_ISO2": "CV",
     "Country": "Cabo Verde",
     "Country_Abr": "Cabo Verde",
@@ -883,8 +831,7 @@
     "Longitude": "-23,5133267",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CPV.png"
   },
-  {
-    "Country_ISO3": "CRI",
+  "CRI": {
     "Country_ISO2": "CR",
     "Country": "Costa Rica",
     "Country_Abr": "Costa Rica",
@@ -900,8 +847,7 @@
     "Longitude": "-84,0907246",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CRI.png"
   },
-  {
-    "Country_ISO3": "CUB",
+  "CUB": {
     "Country_ISO2": "CU",
     "Country": "Cuba",
     "Country_Abr": "Cuba",
@@ -917,8 +863,7 @@
     "Longitude": "-82,3665956",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CUB.png"
   },
-  {
-    "Country_ISO3": "CUW",
+  "CUW": {
     "Country_ISO2": "CW",
     "Country": "Curaçao",
     "Country_Abr": "Curaçao",
@@ -934,8 +879,7 @@
     "Longitude": "-68,8824233",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CUW.png"
   },
-  {
-    "Country_ISO3": "CXR",
+  "CXR": {
     "Country_ISO2": "CX",
     "Country": "Christmas Island",
     "Country_Abr": "Christmas Island",
@@ -951,8 +895,7 @@
     "Longitude": "105,6735131",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CXR.png"
   },
-  {
-    "Country_ISO3": "CYM",
+  "CYM": {
     "Country_ISO2": "KY",
     "Country": "Cayman Islands",
     "Country_Abr": "Cayman Islands",
@@ -968,8 +911,7 @@
     "Longitude": "-81,3674389",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CYM.png"
   },
-  {
-    "Country_ISO3": "CYP",
+  "CYP": {
     "Country_ISO2": "CY",
     "Country": "Cyprus",
     "Country_Abr": "Cyprus",
@@ -985,8 +927,7 @@
     "Longitude": "33,3822764",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CYP.png"
   },
-  {
-    "Country_ISO3": "CZE",
+  "CZE": {
     "Country_ISO2": "CZ",
     "Country": "Czechia",
     "Country_Abr": "Czechia",
@@ -1002,8 +943,7 @@
     "Longitude": "14,4378005",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/CZE.png"
   },
-  {
-    "Country_ISO3": "DEU",
+  "DEU": {
     "Country_ISO2": "DE",
     "Country": "Germany",
     "Country_Abr": "Germany",
@@ -1019,8 +959,7 @@
     "Longitude": "13,404954",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/DEU.png"
   },
-  {
-    "Country_ISO3": "DJI",
+  "DJI": {
     "Country_ISO2": "DJ",
     "Country": "Djibouti",
     "Country_Abr": "Djibouti",
@@ -1036,8 +975,7 @@
     "Longitude": "42,590275",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/DJI.png"
   },
-  {
-    "Country_ISO3": "DMA",
+  "DMA": {
     "Country_ISO2": "DM",
     "Country": "Dominica",
     "Country_Abr": "Dominica",
@@ -1053,8 +991,7 @@
     "Longitude": "-61,3793554",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/DMA.png"
   },
-  {
-    "Country_ISO3": "DNK",
+  "DNK": {
     "Country_ISO2": "DK",
     "Country": "Denmark",
     "Country_Abr": "Denmark",
@@ -1070,8 +1007,7 @@
     "Longitude": "12,5683371",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/DNK.png"
   },
-  {
-    "Country_ISO3": "DOM",
+  "DOM": {
     "Country_ISO2": "DO",
     "Country": "Dominican Republic",
     "Country_Abr": "Dominican Republic",
@@ -1087,8 +1023,7 @@
     "Longitude": "-69,9312117",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/DOM.png"
   },
-  {
-    "Country_ISO3": "DZA",
+  "DZA": {
     "Country_ISO2": "DZ",
     "Country": "Algeria",
     "Country_Abr": "Algeria",
@@ -1104,8 +1039,7 @@
     "Longitude": "3,0587561",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/DZA.png"
   },
-  {
-    "Country_ISO3": "ECU",
+  "ECU": {
     "Country_ISO2": "EC",
     "Country": "Ecuador",
     "Country_Abr": "Ecuador",
@@ -1121,8 +1055,7 @@
     "Longitude": "-78,4678382",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ECU.png"
   },
-  {
-    "Country_ISO3": "EGY",
+  "EGY": {
     "Country_ISO2": "EG",
     "Country": "Egypt",
     "Country_Abr": "Egypt",
@@ -1138,8 +1071,7 @@
     "Longitude": "31,2357116",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/EGY.png"
   },
-  {
-    "Country_ISO3": "ERI",
+  "ERI": {
     "Country_ISO2": "ER",
     "Country": "Eritrea",
     "Country_Abr": "Eritrea",
@@ -1155,8 +1087,7 @@
     "Longitude": "38,9250517",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ERI.png"
   },
-  {
-    "Country_ISO3": "ESH",
+  "ESH": {
     "Country_ISO2": "EH",
     "Country": "Western Sahara",
     "Country_Abr": "Western Sahara",
@@ -1172,8 +1103,7 @@
     "Longitude": "-13,1990758",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ESH.png"
   },
-  {
-    "Country_ISO3": "ESP",
+  "ESP": {
     "Country_ISO2": "ES",
     "Country": "Spain",
     "Country_Abr": "Spain",
@@ -1189,8 +1119,7 @@
     "Longitude": "-3,7037902",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ESP.png"
   },
-  {
-    "Country_ISO3": "EST",
+  "EST": {
     "Country_ISO2": "EE",
     "Country": "Estonia",
     "Country_Abr": "Estonia",
@@ -1206,8 +1135,7 @@
     "Longitude": "24,7535746",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/EST.png"
   },
-  {
-    "Country_ISO3": "ETH",
+  "ETH": {
     "Country_ISO2": "ET",
     "Country": "Ethiopia",
     "Country_Abr": "Ethiopia",
@@ -1223,8 +1151,7 @@
     "Longitude": "38,7577605",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ETH.png"
   },
-  {
-    "Country_ISO3": "FIN",
+  "FIN": {
     "Country_ISO2": "FI",
     "Country": "Finland",
     "Country_Abr": "Finland",
@@ -1240,8 +1167,7 @@
     "Longitude": "24,938379",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/FIN.png"
   },
-  {
-    "Country_ISO3": "FJI",
+  "FJI": {
     "Country_ISO2": "FJ",
     "Country": "Fiji",
     "Country_Abr": "Fiji",
@@ -1257,8 +1183,7 @@
     "Longitude": "178,4232507",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/FJI.png"
   },
-  {
-    "Country_ISO3": "FLK",
+  "FLK": {
     "Country_ISO2": "FK",
     "Country": "Falkland Islands (Malvinas)",
     "Country_Abr": "Malvinas",
@@ -1274,8 +1199,7 @@
     "Longitude": "-57,8516627",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/FLK.png"
   },
-  {
-    "Country_ISO3": "FRA",
+  "FRA": {
     "Country_ISO2": "FR",
     "Country": "France",
     "Country_Abr": "France",
@@ -1291,8 +1215,7 @@
     "Longitude": "2,3522219",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/FRA.png"
   },
-  {
-    "Country_ISO3": "FRO",
+  "FRO": {
     "Country_ISO2": "FO",
     "Country": "Faroe Islands",
     "Country_Abr": "Faroe Islands",
@@ -1308,8 +1231,7 @@
     "Longitude": "-6,7740852",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/FRO.png"
   },
-  {
-    "Country_ISO3": "FSM",
+  "FSM": {
     "Country_ISO2": "FM",
     "Country": "Micronesia (Federated States of)",
     "Country_Abr": "Micronesia",
@@ -1325,8 +1247,7 @@
     "Longitude": "158,1610274",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/FSM.png"
   },
-  {
-    "Country_ISO3": "GAB",
+  "GAB": {
     "Country_ISO2": "GA",
     "Country": "Gabon",
     "Country_Abr": "Gabon",
@@ -1342,8 +1263,7 @@
     "Longitude": "9,4672676",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GAB.png"
   },
-  {
-    "Country_ISO3": "GBR",
+  "GBR": {
     "Country_ISO2": "GB",
     "Country": "United Kingdom of Great Britain and Northern Ireland",
     "Country_Abr": "UK",
@@ -1359,8 +1279,7 @@
     "Longitude": "-0,1275862",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GBR.png"
   },
-  {
-    "Country_ISO3": "GEO",
+  "GEO": {
     "Country_ISO2": "GE",
     "Country": "Georgia",
     "Country_Abr": "Georgia",
@@ -1376,8 +1295,7 @@
     "Longitude": "44,827096",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GEO.png"
   },
-  {
-    "Country_ISO3": "GGY",
+  "GGY": {
     "Country_ISO2": "GG",
     "Country": "Guernsey",
     "Country_Abr": "Guernsey",
@@ -1393,8 +1311,7 @@
     "Longitude": "-2,533856",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GGY.png"
   },
-  {
-    "Country_ISO3": "GHA",
+  "GHA": {
     "Country_ISO2": "GH",
     "Country": "Ghana",
     "Country_Abr": "Ghana",
@@ -1410,8 +1327,7 @@
     "Longitude": "-0,1869644",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GHA.png"
   },
-  {
-    "Country_ISO3": "GIB",
+  "GIB": {
     "Country_ISO2": "GI",
     "Country": "Gibraltar",
     "Country_Abr": "Gibraltar",
@@ -1427,8 +1343,7 @@
     "Longitude": "-5,353585",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GIB.png"
   },
-  {
-    "Country_ISO3": "GIN",
+  "GIN": {
     "Country_ISO2": "GN",
     "Country": "Guinea",
     "Country_Abr": "Guinea",
@@ -1444,8 +1359,7 @@
     "Longitude": "-9,696645",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GIN.png"
   },
-  {
-    "Country_ISO3": "GLP",
+  "GLP": {
     "Country_ISO2": "GP",
     "Country": "Guadeloupe",
     "Country_Abr": "Guadeloupe",
@@ -1461,8 +1375,7 @@
     "Longitude": "-61,7317215",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GLP.png"
   },
-  {
-    "Country_ISO3": "GMB",
+  "GMB": {
     "Country_ISO2": "GM",
     "Country": "Gambia",
     "Country_Abr": "Gambia",
@@ -1478,8 +1391,7 @@
     "Longitude": "-16,5753186",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GMB.png"
   },
-  {
-    "Country_ISO3": "GNB",
+  "GNB": {
     "Country_ISO2": "GW",
     "Country": "Guinea-Bissau",
     "Country_Abr": "Guinea-Bissau",
@@ -1495,8 +1407,7 @@
     "Longitude": "-15,5843227",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GNB.png"
   },
-  {
-    "Country_ISO3": "GNQ",
+  "GNQ": {
     "Country_ISO2": "GQ",
     "Country": "Equatorial Guinea",
     "Country_Abr": "Equatorial Guinea",
@@ -1512,8 +1423,7 @@
     "Longitude": "8,7821344",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GNQ.png"
   },
-  {
-    "Country_ISO3": "GRC",
+  "GRC": {
     "Country_ISO2": "GR",
     "Country": "Greece",
     "Country_Abr": "Greece",
@@ -1529,8 +1439,7 @@
     "Longitude": "23,7275388",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GRC.png"
   },
-  {
-    "Country_ISO3": "GRD",
+  "GRD": {
     "Country_ISO2": "GD",
     "Country": "Grenada",
     "Country_Abr": "Grenada",
@@ -1546,8 +1455,7 @@
     "Longitude": "-61,7487996",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GRD.png"
   },
-  {
-    "Country_ISO3": "GRL",
+  "GRL": {
     "Country_ISO2": "GL",
     "Country": "Greenland",
     "Country_Abr": "Greenland",
@@ -1563,8 +1471,7 @@
     "Longitude": "-51,694138",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GRL.png"
   },
-  {
-    "Country_ISO3": "GTM",
+  "GTM": {
     "Country_ISO2": "GT",
     "Country": "Guatemala",
     "Country_Abr": "Guatemala",
@@ -1580,8 +1487,7 @@
     "Longitude": "-90,230759",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GTM.png"
   },
-  {
-    "Country_ISO3": "GUF",
+  "GUF": {
     "Country_ISO2": "GF",
     "Country": "French Guiana",
     "Country_Abr": "French Guiana",
@@ -1597,8 +1503,7 @@
     "Longitude": "-52,3134531",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GUF.png"
   },
-  {
-    "Country_ISO3": "GUM",
+  "GUM": {
     "Country_ISO2": "GU",
     "Country": "Guam",
     "Country_Abr": "Guam",
@@ -1614,8 +1519,7 @@
     "Longitude": "144,7502228",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GUM.png"
   },
-  {
-    "Country_ISO3": "GUY",
+  "GUY": {
     "Country_ISO2": "GY",
     "Country": "Guyana",
     "Country_Abr": "Guyana",
@@ -1631,8 +1535,7 @@
     "Longitude": "-58,1551255",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/GUY.png"
   },
-  {
-    "Country_ISO3": "HKG",
+  "HKG": {
     "Country_ISO2": "HK",
     "Country": "Hong Kong",
     "Country_Abr": "Hong Kong",
@@ -1648,8 +1551,7 @@
     "Longitude": "114,1693611",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/HKG.png"
   },
-  {
-    "Country_ISO3": "HMD",
+  "HMD": {
     "Country_ISO2": "HM",
     "Country": "Heard Island and McDonald Islands",
     "Country_Abr": "Heard Island and McDonald Islands",
@@ -1665,8 +1567,7 @@
     "Longitude": "73,504158",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/HMD.png"
   },
-  {
-    "Country_ISO3": "HND",
+  "HND": {
     "Country_ISO2": "HN",
     "Country": "Honduras",
     "Country_Abr": "Honduras",
@@ -1682,8 +1583,7 @@
     "Longitude": "-87,1715002",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/HND.png"
   },
-  {
-    "Country_ISO3": "HRV",
+  "HRV": {
     "Country_ISO2": "HR",
     "Country": "Croatia",
     "Country_Abr": "Croatia",
@@ -1699,8 +1599,7 @@
     "Longitude": "15,981919",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/HRV.png"
   },
-  {
-    "Country_ISO3": "HTI",
+  "HTI": {
     "Country_ISO2": "HT",
     "Country": "Haiti",
     "Country_Abr": "Haiti",
@@ -1716,8 +1615,7 @@
     "Longitude": "-72,3074326",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/HTI.png"
   },
-  {
-    "Country_ISO3": "HUN",
+  "HUN": {
     "Country_ISO2": "HU",
     "Country": "Hungary",
     "Country_Abr": "Hungary",
@@ -1733,8 +1631,7 @@
     "Longitude": "19,040235",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/HUN.png"
   },
-  {
-    "Country_ISO3": "IDN",
+  "IDN": {
     "Country_ISO2": "ID",
     "Country": "Indonesia",
     "Country_Abr": "Indonesia",
@@ -1750,8 +1647,7 @@
     "Longitude": "106,845599",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IDN.png"
   },
-  {
-    "Country_ISO3": "IMN",
+  "IMN": {
     "Country_ISO2": "IM",
     "Country": "Isle of Man",
     "Country_Abr": "Isle of Man",
@@ -1767,8 +1663,7 @@
     "Longitude": "-4,4861228",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IMN.png"
   },
-  {
-    "Country_ISO3": "IND",
+  "IND": {
     "Country_ISO2": "IN",
     "Country": "India",
     "Country_Abr": "India",
@@ -1784,8 +1679,7 @@
     "Longitude": "77,2090212",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IND.png"
   },
-  {
-    "Country_ISO3": "IOT",
+  "IOT": {
     "Country_ISO2": "IO",
     "Country": "British Indian Ocean Territory",
     "Country_Abr": "British Indian Ocean Territory",
@@ -1801,8 +1695,7 @@
     "Longitude": "71,876519",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IOT.png"
   },
-  {
-    "Country_ISO3": "IRL",
+  "IRL": {
     "Country_ISO2": "IE",
     "Country": "Ireland",
     "Country_Abr": "Ireland",
@@ -1818,8 +1711,7 @@
     "Longitude": "-6,2603097",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IRL.png"
   },
-  {
-    "Country_ISO3": "IRN",
+  "IRN": {
     "Country_ISO2": "IR",
     "Country": "Iran (Islamic Republic of)",
     "Country_Abr": "Iran",
@@ -1835,8 +1727,7 @@
     "Longitude": "51,3346954",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IRN.png"
   },
-  {
-    "Country_ISO3": "IRQ",
+  "IRQ": {
     "Country_ISO2": "IQ",
     "Country": "Iraq",
     "Country_Abr": "Iraq",
@@ -1852,8 +1743,7 @@
     "Longitude": "44,3660671",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/IRQ.png"
   },
-  {
-    "Country_ISO3": "ISL",
+  "ISL": {
     "Country_ISO2": "IS",
     "Country": "Iceland",
     "Country_Abr": "Iceland",
@@ -1869,8 +1759,7 @@
     "Longitude": "-21,9426354",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ISL.png"
   },
-  {
-    "Country_ISO3": "ISR",
+  "ISR": {
     "Country_ISO2": "IL",
     "Country": "Israel",
     "Country_Abr": "Israel",
@@ -1886,8 +1775,7 @@
     "Longitude": "35,21371",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ISR.png"
   },
-  {
-    "Country_ISO3": "ITA",
+  "ITA": {
     "Country_ISO2": "IT",
     "Country": "Italy",
     "Country_Abr": "Italy",
@@ -1903,8 +1791,7 @@
     "Longitude": "12,4963655",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ITA.png"
   },
-  {
-    "Country_ISO3": "JAM",
+  "JAM": {
     "Country_ISO2": "JM",
     "Country": "Jamaica",
     "Country_Abr": "Jamaica",
@@ -1920,8 +1807,7 @@
     "Longitude": "-76,8099041",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/JAM.png"
   },
-  {
-    "Country_ISO3": "JEY",
+  "JEY": {
     "Country_ISO2": "JE",
     "Country": "Jersey",
     "Country_Abr": "Jersey",
@@ -1937,8 +1823,7 @@
     "Longitude": "-2,103233",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/JEY.png"
   },
-  {
-    "Country_ISO3": "JOR",
+  "JOR": {
     "Country_ISO2": "JO",
     "Country": "Jordan",
     "Country_Abr": "Jordan",
@@ -1954,8 +1839,7 @@
     "Longitude": "35,910635",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/JOR.png"
   },
-  {
-    "Country_ISO3": "JPN",
+  "JPN": {
     "Country_ISO2": "JP",
     "Country": "Japan",
     "Country_Abr": "Japan",
@@ -1971,8 +1855,7 @@
     "Longitude": "139,6503106",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/JPN.png"
   },
-  {
-    "Country_ISO3": "KAZ",
+  "KAZ": {
     "Country_ISO2": "KZ",
     "Country": "Kazakhstan",
     "Country_Abr": "Kazakhstan",
@@ -1988,8 +1871,7 @@
     "Longitude": "71,4703558",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KAZ.png"
   },
-  {
-    "Country_ISO3": "KEN",
+  "KEN": {
     "Country_ISO2": "KE",
     "Country": "Kenya",
     "Country_Abr": "Kenya",
@@ -2005,8 +1887,7 @@
     "Longitude": "36,8219462",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KEN.png"
   },
-  {
-    "Country_ISO3": "KGZ",
+  "KGZ": {
     "Country_ISO2": "KG",
     "Country": "Kyrgyzstan",
     "Country_Abr": "Kyrgyzstan",
@@ -2022,8 +1903,7 @@
     "Longitude": "74,5697617",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KGZ.png"
   },
-  {
-    "Country_ISO3": "KHM",
+  "KHM": {
     "Country_ISO2": "KH",
     "Country": "Cambodia",
     "Country_Abr": "Cambodia",
@@ -2039,8 +1919,7 @@
     "Longitude": "104,9282099",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KHM.png"
   },
-  {
-    "Country_ISO3": "KIR",
+  "KIR": {
     "Country_ISO2": "KI",
     "Country": "Kiribati",
     "Country_Abr": "Kiribati",
@@ -2056,8 +1935,7 @@
     "Longitude": "172,9716617",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KIR.png"
   },
-  {
-    "Country_ISO3": "KNA",
+  "KNA": {
     "Country_ISO2": "KN",
     "Country": "Saint Kitts and Nevis",
     "Country_Abr": "Saint Kitts and Nevis",
@@ -2073,8 +1951,7 @@
     "Longitude": "-62,7176924",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KNA.png"
   },
-  {
-    "Country_ISO3": "KOR",
+  "KOR": {
     "Country_ISO2": "KR",
     "Country": "South Korea",
     "Country_Abr": "South Korea",
@@ -2090,8 +1967,7 @@
     "Longitude": "126,9779692",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KOR.png"
   },
-  {
-    "Country_ISO3": "KWT",
+  "KWT": {
     "Country_ISO2": "KW",
     "Country": "Kuwait",
     "Country_Abr": "Kuwait",
@@ -2107,8 +1983,7 @@
     "Longitude": "47,9774052",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/KWT.png"
   },
-  {
-    "Country_ISO3": "LAO",
+  "LAO": {
     "Country_ISO2": "LA",
     "Country": "Lao People's Democratic Republic",
     "Country_Abr": "Laos",
@@ -2124,8 +1999,7 @@
     "Longitude": "102,6331035",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LAO.png"
   },
-  {
-    "Country_ISO3": "LBN",
+  "LBN": {
     "Country_ISO2": "LB",
     "Country": "Lebanon",
     "Country_Abr": "Lebanon",
@@ -2141,8 +2015,7 @@
     "Longitude": "35,5017767",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LBN.png"
   },
-  {
-    "Country_ISO3": "LBR",
+  "LBR": {
     "Country_ISO2": "LR",
     "Country": "Liberia",
     "Country_Abr": "Liberia",
@@ -2158,8 +2031,7 @@
     "Longitude": "-10,8073698",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LBR.png"
   },
-  {
-    "Country_ISO3": "LBY",
+  "LBY": {
     "Country_ISO2": "LY",
     "Country": "Libya",
     "Country_Abr": "Libya",
@@ -2175,8 +2047,7 @@
     "Longitude": "13,1913383",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LBY.png"
   },
-  {
-    "Country_ISO3": "LCA",
+  "LCA": {
     "Country_ISO2": "LC",
     "Country": "Saint Lucia",
     "Country_Abr": "Saint Lucia",
@@ -2192,8 +2063,7 @@
     "Longitude": "-60,9874687",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LCA.png"
   },
-  {
-    "Country_ISO3": "LIE",
+  "LIE": {
     "Country_ISO2": "LI",
     "Country": "Liechtenstein",
     "Country_Abr": "Liechtenstein",
@@ -2209,8 +2079,7 @@
     "Longitude": "9,5209277",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LIE.png"
   },
-  {
-    "Country_ISO3": "LKA",
+  "LKA": {
     "Country_ISO2": "LK",
     "Country": "Sri Lanka",
     "Country_Abr": "Sri Lanka",
@@ -2226,8 +2095,7 @@
     "Longitude": "79,9187142",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LKA.png"
   },
-  {
-    "Country_ISO3": "LSO",
+  "LSO": {
     "Country_ISO2": "LS",
     "Country": "Lesotho",
     "Country_Abr": "Lesotho",
@@ -2243,8 +2111,7 @@
     "Longitude": "27,4869229",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LSO.png"
   },
-  {
-    "Country_ISO3": "LTU",
+  "LTU": {
     "Country_ISO2": "LT",
     "Country": "Lithuania",
     "Country_Abr": "Lithuania",
@@ -2260,8 +2127,7 @@
     "Longitude": "25,2796514",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LTU.png"
   },
-  {
-    "Country_ISO3": "LUX",
+  "LUX": {
     "Country_ISO2": "LU",
     "Country": "Luxembourg",
     "Country_Abr": "Luxembourg",
@@ -2277,8 +2143,7 @@
     "Longitude": "6,129583",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LUX.png"
   },
-  {
-    "Country_ISO3": "LVA",
+  "LVA": {
     "Country_ISO2": "LV",
     "Country": "Latvia",
     "Country_Abr": "Latvia",
@@ -2294,8 +2159,7 @@
     "Longitude": "24,1051864",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/LVA.png"
   },
-  {
-    "Country_ISO3": "MAC",
+  "MAC": {
     "Country_ISO2": "MO",
     "Country": "Macao",
     "Country_Abr": "Macao",
@@ -2311,8 +2175,7 @@
     "Longitude": "113,5435639",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MAC.png"
   },
-  {
-    "Country_ISO3": "MAF",
+  "MAF": {
     "Country_ISO2": "MF",
     "Country": "Saint Martin (French part)",
     "Country_Abr": "Saint Martin (French part)",
@@ -2328,8 +2191,7 @@
     "Longitude": "-63,0471371",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MAF.png"
   },
-  {
-    "Country_ISO3": "MAR",
+  "MAR": {
     "Country_ISO2": "MA",
     "Country": "Morocco",
     "Country_Abr": "Morocco",
@@ -2345,8 +2207,7 @@
     "Longitude": "-6,8498129",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MAR.png"
   },
-  {
-    "Country_ISO3": "MCO",
+  "MCO": {
     "Country_ISO2": "MC",
     "Country": "Monaco",
     "Country_Abr": "Monaco",
@@ -2362,8 +2223,7 @@
     "Longitude": "7,4246158",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MCO.png"
   },
-  {
-    "Country_ISO3": "MDA",
+  "MDA": {
     "Country_ISO2": "MD",
     "Country": "Moldova",
     "Country_Abr": "Moldova",
@@ -2379,8 +2239,7 @@
     "Longitude": "28,8638103",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MDA.png"
   },
-  {
-    "Country_ISO3": "MDG",
+  "MDG": {
     "Country_ISO2": "MG",
     "Country": "Madagascar",
     "Country_Abr": "Madagascar",
@@ -2396,8 +2255,7 @@
     "Longitude": "47,5079055",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MDG.png"
   },
-  {
-    "Country_ISO3": "MDV",
+  "MDV": {
     "Country_ISO2": "MV",
     "Country": "Maldives",
     "Country_Abr": "Maldives",
@@ -2413,8 +2271,7 @@
     "Longitude": "73,5093474",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MDV.png"
   },
-  {
-    "Country_ISO3": "MEX",
+  "MEX": {
     "Country_ISO2": "MX",
     "Country": "Mexico",
     "Country_Abr": "Mexico",
@@ -2430,8 +2287,7 @@
     "Longitude": "-102,552784",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MEX.png"
   },
-  {
-    "Country_ISO3": "MHL",
+  "MHL": {
     "Country_ISO2": "MH",
     "Country": "Marshall Islands",
     "Country_Abr": "Marshall Islands",
@@ -2447,8 +2303,7 @@
     "Longitude": "171,266667",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MHL.png"
   },
-  {
-    "Country_ISO3": "MKD",
+  "MKD": {
     "Country_ISO2": "MK",
     "Country": "North Macedonia",
     "Country_Abr": "North Macedonia",
@@ -2464,8 +2319,7 @@
     "Longitude": "21,4254355",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MKD.png"
   },
-  {
-    "Country_ISO3": "MLI",
+  "MLI": {
     "Country_ISO2": "ML",
     "Country": "Mali",
     "Country_Abr": "Mali",
@@ -2481,8 +2335,7 @@
     "Longitude": "-8,0028892",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MLI.png"
   },
-  {
-    "Country_ISO3": "MLT",
+  "MLT": {
     "Country_ISO2": "MT",
     "Country": "Malta",
     "Country_Abr": "Malta",
@@ -2498,8 +2351,7 @@
     "Longitude": "14,5145528",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MLT.png"
   },
-  {
-    "Country_ISO3": "MMR",
+  "MMR": {
     "Country_ISO2": "MM",
     "Country": "Myanmar",
     "Country_Abr": "Myanmar",
@@ -2515,8 +2367,7 @@
     "Longitude": "96,0785104",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MMR.png"
   },
-  {
-    "Country_ISO3": "MNE",
+  "MNE": {
     "Country_ISO2": "ME",
     "Country": "Montenegro",
     "Country_Abr": "Montenegro",
@@ -2532,8 +2383,7 @@
     "Longitude": "19,2593642",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MNE.png"
   },
-  {
-    "Country_ISO3": "MNG",
+  "MNG": {
     "Country_ISO2": "MN",
     "Country": "Mongolia",
     "Country_Abr": "Mongolia",
@@ -2549,8 +2399,7 @@
     "Longitude": "106,9057439",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MNG.png"
   },
-  {
-    "Country_ISO3": "MNP",
+  "MNP": {
     "Country_ISO2": "MP",
     "Country": "Northern Mariana Islands",
     "Country_Abr": "Northern Mariana Islands",
@@ -2566,8 +2415,7 @@
     "Longitude": "145,7467259",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MNP.png"
   },
-  {
-    "Country_ISO3": "MOZ",
+  "MOZ": {
     "Country_ISO2": "MZ",
     "Country": "Mozambique",
     "Country_Abr": "Mozambique",
@@ -2583,8 +2431,7 @@
     "Longitude": "32,5731746",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MOZ.png"
   },
-  {
-    "Country_ISO3": "MRT",
+  "MRT": {
     "Country_ISO2": "MR",
     "Country": "Mauritania",
     "Country_Abr": "Mauritania",
@@ -2600,8 +2447,7 @@
     "Longitude": "-15,9582372",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MRT.png"
   },
-  {
-    "Country_ISO3": "MSR",
+  "MSR": {
     "Country_ISO2": "MS",
     "Country": "Montserrat",
     "Country_Abr": "Montserrat",
@@ -2617,8 +2463,7 @@
     "Longitude": "-62,2106241",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MSR.png"
   },
-  {
-    "Country_ISO3": "MTQ",
+  "MTQ": {
     "Country_ISO2": "MQ",
     "Country": "Martinique",
     "Country_Abr": "Martinique",
@@ -2634,8 +2479,7 @@
     "Longitude": "-61,069884",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MTQ.png"
   },
-  {
-    "Country_ISO3": "MUS",
+  "MUS": {
     "Country_ISO2": "MU",
     "Country": "Mauritius",
     "Country_Abr": "Mauritius",
@@ -2651,8 +2495,7 @@
     "Longitude": "57,5012222",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MUS.png"
   },
-  {
-    "Country_ISO3": "MWI",
+  "MWI": {
     "Country_ISO2": "MW",
     "Country": "Malawi",
     "Country_Abr": "Malawi",
@@ -2668,8 +2511,7 @@
     "Longitude": "33,7741195",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MWI.png"
   },
-  {
-    "Country_ISO3": "MYS",
+  "MYS": {
     "Country_ISO2": "MY",
     "Country": "Malaysia",
     "Country_Abr": "Malaysia",
@@ -2685,8 +2527,7 @@
     "Longitude": "101,686855",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MYS.png"
   },
-  {
-    "Country_ISO3": "MYT",
+  "MYT": {
     "Country_ISO2": "YT",
     "Country": "Mayotte",
     "Country_Abr": "Mayotte",
@@ -2702,8 +2543,7 @@
     "Longitude": "45,2326964",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/MYT.png"
   },
-  {
-    "Country_ISO3": "NAM",
+  "NAM": {
     "Country_ISO2": "NA",
     "Country": "Namibia",
     "Country_Abr": "Namibia",
@@ -2719,8 +2559,7 @@
     "Longitude": "17,0657549",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NAM.png"
   },
-  {
-    "Country_ISO3": "NCL",
+  "NCL": {
     "Country_ISO2": "NC",
     "Country": "New Caledonia",
     "Country_Abr": "New Caledonia",
@@ -2736,8 +2575,7 @@
     "Longitude": "166,4480887",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NCL.png"
   },
-  {
-    "Country_ISO3": "NER",
+  "NER": {
     "Country_ISO2": "NE",
     "Country": "Niger",
     "Country_Abr": "Niger",
@@ -2753,8 +2591,7 @@
     "Longitude": "2,1253854",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NER.png"
   },
-  {
-    "Country_ISO3": "NFK",
+  "NFK": {
     "Country_ISO2": "NF",
     "Country": "Norfolk Island",
     "Country_Abr": "Norfolk Island",
@@ -2770,8 +2607,7 @@
     "Longitude": "167,959588",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NFK.png"
   },
-  {
-    "Country_ISO3": "NGA",
+  "NGA": {
     "Country_ISO2": "NG",
     "Country": "Nigeria",
     "Country_Abr": "Nigeria",
@@ -2787,8 +2623,7 @@
     "Longitude": "7,398574",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NGA.png"
   },
-  {
-    "Country_ISO3": "NIC",
+  "NIC": {
     "Country_ISO2": "NI",
     "Country": "Nicaragua",
     "Country_Abr": "Nicaragua",
@@ -2804,8 +2639,7 @@
     "Longitude": "-86,2361744",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NIC.png"
   },
-  {
-    "Country_ISO3": "NIU",
+  "NIU": {
     "Country_ISO2": "NU",
     "Country": "Niue",
     "Country_Abr": "Niue",
@@ -2821,8 +2655,7 @@
     "Longitude": "-169,9178709",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NIU.png"
   },
-  {
-    "Country_ISO3": "NLD",
+  "NLD": {
     "Country_ISO2": "NL",
     "Country": "Netherlands",
     "Country_Abr": "Netherlands",
@@ -2838,8 +2671,7 @@
     "Longitude": "4,9041389",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NLD.png"
   },
-  {
-    "Country_ISO3": "NOR",
+  "NOR": {
     "Country_ISO2": "NO",
     "Country": "Norway",
     "Country_Abr": "Norway",
@@ -2855,8 +2687,7 @@
     "Longitude": "10,7522454",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NOR.png"
   },
-  {
-    "Country_ISO3": "NPL",
+  "NPL": {
     "Country_ISO2": "NP",
     "Country": "Nepal",
     "Country_Abr": "Nepal",
@@ -2872,8 +2703,7 @@
     "Longitude": "85,3239605",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NPL.png"
   },
-  {
-    "Country_ISO3": "NRU",
+  "NRU": {
     "Country_ISO2": "NR",
     "Country": "Nauru",
     "Country_Abr": "Nauru",
@@ -2889,8 +2719,7 @@
     "Longitude": "166,9210913",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NRU.png"
   },
-  {
-    "Country_ISO3": "NZL",
+  "NZL": {
     "Country_ISO2": "NZ",
     "Country": "New Zealand",
     "Country_Abr": "New Zealand",
@@ -2906,8 +2735,7 @@
     "Longitude": "174,7787463",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/NZL.png"
   },
-  {
-    "Country_ISO3": "OMN",
+  "OMN": {
     "Country_ISO2": "OM",
     "Country": "Oman",
     "Country_Abr": "Oman",
@@ -2923,8 +2751,7 @@
     "Longitude": "58,3828717",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/OMN.png"
   },
-  {
-    "Country_ISO3": "PAK",
+  "PAK": {
     "Country_ISO2": "PK",
     "Country": "Pakistan",
     "Country_Abr": "Pakistan",
@@ -2940,8 +2767,7 @@
     "Longitude": "73,0478848",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PAK.png"
   },
-  {
-    "Country_ISO3": "PAN",
+  "PAN": {
     "Country_ISO2": "PA",
     "Country": "Panama",
     "Country_Abr": "Panama",
@@ -2957,8 +2783,7 @@
     "Longitude": "-79,2902133",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PAN.png"
   },
-  {
-    "Country_ISO3": "PCN",
+  "PCN": {
     "Country_ISO2": "PN",
     "Country": "Pitcairn",
     "Country_Abr": "Pitcairn",
@@ -2974,8 +2799,7 @@
     "Longitude": "-130,1004636",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PCN.png"
   },
-  {
-    "Country_ISO3": "PER",
+  "PER": {
     "Country_ISO2": "PE",
     "Country": "Peru",
     "Country_Abr": "Peru",
@@ -2991,8 +2815,7 @@
     "Longitude": "-77,042754",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PER.png"
   },
-  {
-    "Country_ISO3": "PHL",
+  "PHL": {
     "Country_ISO2": "PH",
     "Country": "Philippines",
     "Country_Abr": "Philippines",
@@ -3008,8 +2831,7 @@
     "Longitude": "120,9842195",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PHL.png"
   },
-  {
-    "Country_ISO3": "PLW",
+  "PLW": {
     "Country_ISO2": "PW",
     "Country": "Palau",
     "Country_Abr": "Palau",
@@ -3025,8 +2847,7 @@
     "Longitude": "134,6336896",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PLW.png"
   },
-  {
-    "Country_ISO3": "PNG",
+  "PNG": {
     "Country_ISO2": "PG",
     "Country": "Papua New Guinea",
     "Country_Abr": "Papua New Guinea",
@@ -3042,8 +2863,7 @@
     "Longitude": "147,1802671",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PNG.png"
   },
-  {
-    "Country_ISO3": "POL",
+  "POL": {
     "Country_ISO2": "PL",
     "Country": "Poland",
     "Country_Abr": "Poland",
@@ -3059,8 +2879,7 @@
     "Longitude": "21,0122287",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/POL.png"
   },
-  {
-    "Country_ISO3": "PRI",
+  "PRI": {
     "Country_ISO2": "PR",
     "Country": "Puerto Rico",
     "Country_Abr": "Puerto Rico",
@@ -3076,8 +2895,7 @@
     "Longitude": "-66,1057355",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PRI.png"
   },
-  {
-    "Country_ISO3": "PRK",
+  "PRK": {
     "Country_ISO2": "KP",
     "Country": "North Korea",
     "Country_Abr": "North Korea",
@@ -3093,8 +2911,7 @@
     "Longitude": "125,7625241",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PRK.png"
   },
-  {
-    "Country_ISO3": "PRT",
+  "PRT": {
     "Country_ISO2": "PT",
     "Country": "Portugal",
     "Country_Abr": "Portugal",
@@ -3110,8 +2927,7 @@
     "Longitude": "-9,1393366",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PRT.png"
   },
-  {
-    "Country_ISO3": "PRY",
+  "PRY": {
     "Country_ISO2": "PY",
     "Country": "Paraguay",
     "Country_Abr": "Paraguay",
@@ -3127,8 +2943,7 @@
     "Longitude": "-57,575926",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PRY.png"
   },
-  {
-    "Country_ISO3": "PSE",
+  "PSE": {
     "Country_ISO2": "PS",
     "Country": "State of Palestine",
     "Country_Abr": "State of Palestine",
@@ -3144,8 +2959,7 @@
     "Longitude": "35,21371",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PSE.png"
   },
-  {
-    "Country_ISO3": "PYF",
+  "PYF": {
     "Country_ISO2": "PF",
     "Country": "French Polynesia",
     "Country_Abr": "French Polynesia",
@@ -3161,8 +2975,7 @@
     "Longitude": "-149,5677151",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/PYF.png"
   },
-  {
-    "Country_ISO3": "QAT",
+  "QAT": {
     "Country_ISO2": "QA",
     "Country": "Qatar",
     "Country_Abr": "Qatar",
@@ -3178,8 +2991,7 @@
     "Longitude": "51,5310398",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/QAT.png"
   },
-  {
-    "Country_ISO3": "REU",
+  "REU": {
     "Country_ISO2": "RE",
     "Country": "Réunion",
     "Country_Abr": "Réunion",
@@ -3195,8 +3007,7 @@
     "Longitude": "55,4550536",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/REU.png"
   },
-  {
-    "Country_ISO3": "ROU",
+  "ROU": {
     "Country_ISO2": "RO",
     "Country": "Romania",
     "Country_Abr": "Romania",
@@ -3212,8 +3023,7 @@
     "Longitude": "26,1025384",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ROU.png"
   },
-  {
-    "Country_ISO3": "RUS",
+  "RUS": {
     "Country_ISO2": "RU",
     "Country": "Russian Federation",
     "Country_Abr": "Russia",
@@ -3229,8 +3039,7 @@
     "Longitude": "37,6173",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/RUS.png"
   },
-  {
-    "Country_ISO3": "RWA",
+  "RWA": {
     "Country_ISO2": "RW",
     "Country": "Rwanda",
     "Country_Abr": "Rwanda",
@@ -3246,8 +3055,7 @@
     "Longitude": "30,0618851",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/RWA.png"
   },
-  {
-    "Country_ISO3": "SAU",
+  "SAU": {
     "Country_ISO2": "SA",
     "Country": "Saudi Arabia",
     "Country_Abr": "Saudi Arabia",
@@ -3263,8 +3071,7 @@
     "Longitude": "46,6752957",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SAU.png"
   },
-  {
-    "Country_ISO3": "SDN",
+  "SDN": {
     "Country_ISO2": "SD",
     "Country": "Sudan",
     "Country_Abr": "Sudan",
@@ -3280,8 +3087,7 @@
     "Longitude": "32,5598994",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SDN.png"
   },
-  {
-    "Country_ISO3": "SEN",
+  "SEN": {
     "Country_ISO2": "SN",
     "Country": "Senegal",
     "Country_Abr": "Senegal",
@@ -3297,8 +3103,7 @@
     "Longitude": "-17,4676861",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SEN.png"
   },
-  {
-    "Country_ISO3": "SGP",
+  "SGP": {
     "Country_ISO2": "SG",
     "Country": "Singapore",
     "Country_Abr": "Singapore",
@@ -3314,8 +3119,7 @@
     "Longitude": "103,819836",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SGP.png"
   },
-  {
-    "Country_ISO3": "SGS",
+  "SGS": {
     "Country_ISO2": "GS",
     "Country": "South Georgia and the South Sandwich Islands",
     "Country_Abr": "South Georgia and the South Sandwich Islands",
@@ -3331,8 +3135,7 @@
     "Longitude": "-36,493735",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SGS.png"
   },
-  {
-    "Country_ISO3": "SHN",
+  "SHN": {
     "Country_ISO2": "SH",
     "Country": "Saint Helena, Ascension and Tristan da Cunha",
     "Country_Abr": "Saint Helena",
@@ -3348,8 +3151,7 @@
     "Longitude": "-5,7151749",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SHN.png"
   },
-  {
-    "Country_ISO3": "SJM",
+  "SJM": {
     "Country_ISO2": "SJ",
     "Country": "Svalbard and Jan Mayen",
     "Country_Abr": "Svalbard and Jan Mayen",
@@ -3365,8 +3167,7 @@
     "Longitude": "15,626723",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SJM.png"
   },
-  {
-    "Country_ISO3": "SLB",
+  "SLB": {
     "Country_ISO2": "SB",
     "Country": "Solomon Islands",
     "Country_Abr": "Solomon Islands",
@@ -3382,8 +3183,7 @@
     "Longitude": "159,9728999",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SLB.png"
   },
-  {
-    "Country_ISO3": "SLE",
+  "SLE": {
     "Country_ISO2": "SL",
     "Country": "Sierra Leone",
     "Country_Abr": "Sierra Leone",
@@ -3399,8 +3199,7 @@
     "Longitude": "-13,2317225",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SLE.png"
   },
-  {
-    "Country_ISO3": "SLV",
+  "SLV": {
     "Country_ISO2": "SV",
     "Country": "El Salvador",
     "Country_Abr": "El Salvador",
@@ -3416,8 +3215,7 @@
     "Longitude": "-88,89653",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SLV.png"
   },
-  {
-    "Country_ISO3": "SMR",
+  "SMR": {
     "Country_ISO2": "SM",
     "Country": "San Marino",
     "Country_Abr": "San Marino",
@@ -3433,8 +3231,7 @@
     "Longitude": "12,4472806",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SMR.png"
   },
-  {
-    "Country_ISO3": "SOM",
+  "SOM": {
     "Country_ISO2": "SO",
     "Country": "Somalia",
     "Country_Abr": "Somalia",
@@ -3450,8 +3247,7 @@
     "Longitude": "45,3181623",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SOM.png"
   },
-  {
-    "Country_ISO3": "SPM",
+  "SPM": {
     "Country_ISO2": "PM",
     "Country": "Saint Pierre and Miquelon",
     "Country_Abr": "Saint Pierre and Miquelon",
@@ -3467,8 +3263,7 @@
     "Longitude": "-56,1806363",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SPM.png"
   },
-  {
-    "Country_ISO3": "SRB",
+  "SRB": {
     "Country_ISO2": "RS",
     "Country": "Serbia",
     "Country_Abr": "Serbia",
@@ -3484,8 +3279,7 @@
     "Longitude": "20,46123",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SRB.png"
   },
-  {
-    "Country_ISO3": "SSD",
+  "SSD": {
     "Country_ISO2": "SS",
     "Country": "South Sudan",
     "Country_Abr": "South Sudan",
@@ -3501,8 +3295,7 @@
     "Longitude": "31,57125",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SSD.png"
   },
-  {
-    "Country_ISO3": "STP",
+  "STP": {
     "Country_ISO2": "ST",
     "Country": "Sao Tome and Principe",
     "Country_Abr": "Sao Tome and Principe",
@@ -3518,8 +3311,7 @@
     "Longitude": "6,613081",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/STP.png"
   },
-  {
-    "Country_ISO3": "SUR",
+  "SUR": {
     "Country_ISO2": "SR",
     "Country": "Suriname",
     "Country_Abr": "Suriname",
@@ -3535,8 +3327,7 @@
     "Longitude": "-55,2038278",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SUR.jpg"
   },
-  {
-    "Country_ISO3": "SVK",
+  "SVK": {
     "Country_ISO2": "SK",
     "Country": "Slovakia",
     "Country_Abr": "Slovakia",
@@ -3552,8 +3343,7 @@
     "Longitude": "17,1077477",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SVK.png"
   },
-  {
-    "Country_ISO3": "SVN",
+  "SVN": {
     "Country_ISO2": "SI",
     "Country": "Slovenia",
     "Country_Abr": "Slovenia",
@@ -3569,8 +3359,7 @@
     "Longitude": "14,5057515",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SVN.png"
   },
-  {
-    "Country_ISO3": "SWE",
+  "SWE": {
     "Country_ISO2": "SE",
     "Country": "Sweden",
     "Country_Abr": "Sweden",
@@ -3586,8 +3375,7 @@
     "Longitude": "18,0685808",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SWE.png"
   },
-  {
-    "Country_ISO3": "SWZ",
+  "SWZ": {
     "Country_ISO2": "SZ",
     "Country": "Eswatini",
     "Country_Abr": "Eswatini",
@@ -3603,8 +3391,7 @@
     "Longitude": "31,1366715",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SWZ.png"
   },
-  {
-    "Country_ISO3": "SXM",
+  "SXM": {
     "Country_ISO2": "SX",
     "Country": "Sint Maarten (Dutch part)",
     "Country_Abr": "Sint Maarten (Dutch part)",
@@ -3620,8 +3407,7 @@
     "Longitude": "-63,0471371",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SXM.png"
   },
-  {
-    "Country_ISO3": "SYC",
+  "SYC": {
     "Country_ISO2": "SC",
     "Country": "Seychelles",
     "Country_Abr": "Seychelles",
@@ -3637,8 +3423,7 @@
     "Longitude": "55,4513149",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SYC.png"
   },
-  {
-    "Country_ISO3": "SYR",
+  "SYR": {
     "Country_ISO2": "SY",
     "Country": "Syrian Arab Republic",
     "Country_Abr": "Syrian Arab Republic",
@@ -3654,8 +3439,7 @@
     "Longitude": "36,2765279",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/SYR.png"
   },
-  {
-    "Country_ISO3": "TCA",
+  "TCA": {
     "Country_ISO2": "TC",
     "Country": "Turks and Caicos Islands",
     "Country_Abr": "Turks and Caicos Islands",
@@ -3671,8 +3455,7 @@
     "Longitude": "-71,1389101",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TCA.png"
   },
-  {
-    "Country_ISO3": "TCD",
+  "TCD": {
     "Country_ISO2": "TD",
     "Country": "Chad",
     "Country_Abr": "Chad",
@@ -3688,8 +3471,7 @@
     "Longitude": "15,0557415",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TCD.png"
   },
-  {
-    "Country_ISO3": "TGO",
+  "TGO": {
     "Country_ISO2": "TG",
     "Country": "Togo",
     "Country_Abr": "Togo",
@@ -3705,8 +3487,7 @@
     "Longitude": "1,2254183",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TGO.png"
   },
-  {
-    "Country_ISO3": "THA",
+  "THA": {
     "Country_ISO2": "TH",
     "Country": "Thailand",
     "Country_Abr": "Thailand",
@@ -3722,8 +3503,7 @@
     "Longitude": "100,5017651",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/THA.png"
   },
-  {
-    "Country_ISO3": "TJK",
+  "TJK": {
     "Country_ISO2": "TJ",
     "Country": "Tajikistan",
     "Country_Abr": "Tajikistan",
@@ -3739,8 +3519,7 @@
     "Longitude": "68,7870384",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TJK.png"
   },
-  {
-    "Country_ISO3": "TKL",
+  "TKL": {
     "Country_ISO2": "TK",
     "Country": "Tokelau",
     "Country_Abr": "Tokelau",
@@ -3756,8 +3535,7 @@
     "Longitude": "-171,8507811",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TKL.png"
   },
-  {
-    "Country_ISO3": "TKM",
+  "TKM": {
     "Country_ISO2": "TM",
     "Country": "Turkmenistan",
     "Country_Abr": "Turkmenistan",
@@ -3773,8 +3551,7 @@
     "Longitude": "58,3260629",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TKM.png"
   },
-  {
-    "Country_ISO3": "TLS",
+  "TLS": {
     "Country_ISO2": "TL",
     "Country": "Timor-Leste",
     "Country_Abr": "Timor-Leste",
@@ -3790,8 +3567,7 @@
     "Longitude": "125,5603143",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TLS.png"
   },
-  {
-    "Country_ISO3": "TON",
+  "TON": {
     "Country_ISO2": "TO",
     "Country": "Tonga",
     "Country_Abr": "Tonga",
@@ -3807,8 +3583,7 @@
     "Longitude": "-175,204947",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TON.png"
   },
-  {
-    "Country_ISO3": "TTO",
+  "TTO": {
     "Country_ISO2": "TT",
     "Country": "Trinidad and Tobago",
     "Country_Abr": "Trinidad and Tobago",
@@ -3824,8 +3599,7 @@
     "Longitude": "-61,5085625",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TTO.png"
   },
-  {
-    "Country_ISO3": "TUN",
+  "TUN": {
     "Country_ISO2": "TN",
     "Country": "Tunisia",
     "Country_Abr": "Tunisia",
@@ -3841,8 +3615,7 @@
     "Longitude": "9,537499",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TUN.png"
   },
-  {
-    "Country_ISO3": "TUR",
+  "TUR": {
     "Country_ISO2": "TR",
     "Country": "Turkey",
     "Country_Abr": "Turkey",
@@ -3858,8 +3631,7 @@
     "Longitude": "32,8597419",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TUR.png"
   },
-  {
-    "Country_ISO3": "TUV",
+  "TUV": {
     "Country_ISO2": "TV",
     "Country": "Tuvalu",
     "Country_Abr": "Tuvalu",
@@ -3875,8 +3647,7 @@
     "Longitude": "179,1961926",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TUV.png"
   },
-  {
-    "Country_ISO3": "TWN",
+  "TWN": {
     "Country_ISO2": "TW",
     "Country": "Taiwan, Province of China",
     "Country_Abr": "Taiwan",
@@ -3892,8 +3663,7 @@
     "Longitude": "121,5654268",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TWN.png"
   },
-  {
-    "Country_ISO3": "TZA",
+  "TZA": {
     "Country_ISO2": "TZ",
     "Country": "United Republic of Tanzania",
     "Country_Abr": "Tanzania",
@@ -3909,8 +3679,7 @@
     "Longitude": "35,7516069",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/TZA.png"
   },
-  {
-    "Country_ISO3": "UGA",
+  "UGA": {
     "Country_ISO2": "UG",
     "Country": "Uganda",
     "Country_Abr": "Uganda",
@@ -3926,8 +3695,7 @@
     "Longitude": "32,5825197",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/UGA.png"
   },
-  {
-    "Country_ISO3": "UKR",
+  "UKR": {
     "Country_ISO2": "UA",
     "Country": "Ukraine",
     "Country_Abr": "Ukraine",
@@ -3943,8 +3711,7 @@
     "Longitude": "30,5234",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/UKR.png"
   },
-  {
-    "Country_ISO3": "URY",
+  "URY": {
     "Country_ISO2": "UY",
     "Country": "Uruguay",
     "Country_Abr": "Uruguay",
@@ -3960,8 +3727,7 @@
     "Longitude": "-56,1645314",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/URY.png"
   },
-  {
-    "Country_ISO3": "UMI",
+  "UMI": {
     "Country_ISO2": "UM",
     "Country": "United States Minor Outlying Islands",
     "Country_Abr": "United States Minor Outlying Islands",
@@ -3977,8 +3743,7 @@
     "Longitude": "166,6280441",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/UMI.png"
   },
-  {
-    "Country_ISO3": "USA",
+  "USA": {
     "Country_ISO2": "US",
     "Country": "United States of America",
     "Country_Abr": "USA",
@@ -3994,8 +3759,7 @@
     "Longitude": "-77,0368707",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/USA.png"
   },
-  {
-    "Country_ISO3": "UZB",
+  "UZB": {
     "Country_ISO2": "UZ",
     "Country": "Uzbekistan",
     "Country_Abr": "Uzbekistan",
@@ -4011,8 +3775,7 @@
     "Longitude": "69,2400734",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/UZB.png"
   },
-  {
-    "Country_ISO3": "VAT",
+  "VAT": {
     "Country_ISO2": "VA",
     "Country": "Holy See",
     "Country_Abr": "Holy See",
@@ -4028,8 +3791,7 @@
     "Longitude": "12,453389",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VAT.png"
   },
-  {
-    "Country_ISO3": "VCT",
+  "VCT": {
     "Country_ISO2": "VC",
     "Country": "Saint Vincent and the Grenadines",
     "Country_Abr": "Saint Vincent and the Grenadines",
@@ -4045,8 +3807,7 @@
     "Longitude": "-61,2248157",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VCT.png"
   },
-  {
-    "Country_ISO3": "VEN",
+  "VEN": {
     "Country_ISO2": "VE",
     "Country": "Venezuela (Bolivarian Republic of)",
     "Country_Abr": "Venezuela",
@@ -4062,8 +3823,7 @@
     "Longitude": "-66,9036063",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VEN.png"
   },
-  {
-    "Country_ISO3": "VGB",
+  "VGB": {
     "Country_ISO2": "VG",
     "Country": "Virgin Islands (British)",
     "Country_Abr": "Virgin Islands (British)",
@@ -4079,8 +3839,7 @@
     "Longitude": "-64,6184657",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VGB.png"
   },
-  {
-    "Country_ISO3": "VIR",
+  "VIR": {
     "Country_ISO2": "VI",
     "Country": "Virgin Islands (U.S.)",
     "Country_Abr": "Virgin Islands (U.S.)",
@@ -4096,8 +3855,7 @@
     "Longitude": "-64,9307007",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VIR.png"
   },
-  {
-    "Country_ISO3": "VNM",
+  "VNM": {
     "Country_ISO2": "VN",
     "Country": "Viet Nam",
     "Country_Abr": "Viet Nam",
@@ -4113,8 +3871,7 @@
     "Longitude": "105,8341598",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VNM.png"
   },
-  {
-    "Country_ISO3": "VUT",
+  "VUT": {
     "Country_ISO2": "VU",
     "Country": "Vanuatu",
     "Country_Abr": "Vanuatu",
@@ -4130,8 +3887,7 @@
     "Longitude": "168,3273245",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/VUT.png"
   },
-  {
-    "Country_ISO3": "WLF",
+  "WLF": {
     "Country_ISO2": "WF",
     "Country": "Wallis and Futuna",
     "Country_Abr": "Wallis and Futuna",
@@ -4147,8 +3903,7 @@
     "Longitude": "-176,1764475",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/WLF.png"
   },
-  {
-    "Country_ISO3": "WSM",
+  "WSM": {
     "Country_ISO2": "WS",
     "Country": "Samoa",
     "Country_Abr": "Samoa",
@@ -4164,8 +3919,7 @@
     "Longitude": "-171,7513551",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/WSM.png"
   },
-  {
-    "Country_ISO3": "XXK",
+  "XXK": {
     "Country_ISO2": "XK",
     "Country": "Kosovo",
     "Country_Abr": "Kosovo",
@@ -4181,8 +3935,7 @@
     "Longitude": "21,1655028",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/XXK.png"
   },
-  {
-    "Country_ISO3": "YEM",
+  "YEM": {
     "Country_ISO2": "YE",
     "Country": "Yemen",
     "Country_Abr": "Yemen",
@@ -4198,8 +3951,7 @@
     "Longitude": "44,1910066",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/YEM.png"
   },
-  {
-    "Country_ISO3": "ZAF",
+  "ZAF": {
     "Country_ISO2": "ZA",
     "Country": "South Africa",
     "Country_Abr": "South Africa",
@@ -4215,8 +3967,7 @@
     "Longitude": "28,2292712",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ZAF.png"
   },
-  {
-    "Country_ISO3": "ZMB",
+  "ZMB": {
     "Country_ISO2": "ZM",
     "Country": "Zambia",
     "Country_Abr": "Zambia",
@@ -4232,8 +3983,7 @@
     "Longitude": "28,3228165",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ZMB.png"
   },
-  {
-    "Country_ISO3": "ZWE",
+  "ZWE": {
     "Country_ISO2": "ZW",
     "Country": "Zimbabwe",
     "Country_Abr": "Zimbabwe",
@@ -4249,4 +3999,4 @@
     "Longitude": "31,0492259",
     "Flag": "https://raw.githubusercontent.com/guillemmaya92/world_flags/main/ZWE.png"
   }
-]
+}
