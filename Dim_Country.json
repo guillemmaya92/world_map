@@ -1,6 +1,7 @@
 {
   "ABW": {
     "ISO2": "AW",
+    "Cod_Country": 474,
     "Country": "Aruba",
     "Country_Abr": "Aruba",
     "Capital": "Oranjestad",
@@ -18,6 +19,7 @@
   },
   "AFG": {
     "ISO2": "AF",
+    "Cod_Country": 660,
     "Country": "Afghanistan",
     "Country_Abr": "Afghanistan",
     "Capital": "Kabul",
@@ -35,6 +37,7 @@
   },
   "AGO": {
     "ISO2": "AO",
+    "Cod_Country": 330,
     "Country": "Angola",
     "Country_Abr": "Angola",
     "Capital": "Luanda",
@@ -52,6 +55,7 @@
   },
   "AIA": {
     "ISO2": "AI",
+    "Cod_Country": 446,
     "Country": "Anguilla",
     "Country_Abr": "Anguilla",
     "Capital": "The Valley",
@@ -69,6 +73,7 @@
   },
   "ALA": {
     "ISO2": "AX",
+    "Cod_Country": null,
     "Country": "Åland Islands",
     "Country_Abr": "Åland Islands",
     "Capital": "Mariehamn",
@@ -86,6 +91,7 @@
   },
   "ALB": {
     "ISO2": "AL",
+    "Cod_Country": "070",
     "Country": "Albania",
     "Country_Abr": "Albania",
     "Capital": "Tirana",
@@ -103,6 +109,7 @@
   },
   "AND": {
     "ISO2": "AD",
+    "Cod_Country": "043",
     "Country": "Andorra",
     "Country_Abr": "Andorra",
     "Capital": "Andorra la Vella",
@@ -120,6 +127,7 @@
   },
   "ARE": {
     "ISO2": "AE",
+    "Cod_Country": 647,
     "Country": "United Arab Emirates",
     "Country_Abr": "UAE",
     "Capital": "Abu Dhabi",
@@ -137,6 +145,7 @@
   },
   "ARG": {
     "ISO2": "AR",
+    "Cod_Country": 528,
     "Country": "Argentina",
     "Country_Abr": "Argentina",
     "Capital": "Buenos Aires",
@@ -154,6 +163,7 @@
   },
   "ARM": {
     "ISO2": "AM",
+    "Cod_Country": "077",
     "Country": "Armenia",
     "Country_Abr": "Armenia",
     "Capital": "Yerevan",
@@ -171,6 +181,7 @@
   },
   "ASM": {
     "ISO2": "AS",
+    "Cod_Country": null,
     "Country": "American Samoa",
     "Country_Abr": "American Samoa",
     "Capital": "Pago Pago",
@@ -188,6 +199,7 @@
   },
   "ATA": {
     "ISO2": "AQ",
+    "Cod_Country": null,
     "Country": "Antarctica",
     "Country_Abr": "Antarctica",
     "Capital": "Antarctica",
@@ -205,6 +217,7 @@
   },
   "ATF": {
     "ISO2": "TF",
+    "Cod_Country": null,
     "Country": "French Southern Territories",
     "Country_Abr": "French Southern Territories",
     "Capital": "Port-aux-Français",
@@ -222,6 +235,7 @@
   },
   "ATG": {
     "ISO2": "AG",
+    "Cod_Country": 459,
     "Country": "Antigua and Barbuda",
     "Country_Abr": "Antigua and Barbuda",
     "Capital": "St. Johns",
@@ -239,6 +253,7 @@
   },
   "AUS": {
     "ISO2": "AU",
+    "Cod_Country": 800,
     "Country": "Australia",
     "Country_Abr": "Australia",
     "Capital": "Canberra",
@@ -256,6 +271,7 @@
   },
   "AUT": {
     "ISO2": "AT",
+    "Cod_Country": "038",
     "Country": "Austria",
     "Country_Abr": "Austria",
     "Capital": "Vienna",
@@ -273,6 +289,7 @@
   },
   "AZE": {
     "ISO2": "AZ",
+    "Cod_Country": "078",
     "Country": "Azerbaijan",
     "Country_Abr": "Azerbaijan",
     "Capital": "Baku",
@@ -290,6 +307,7 @@
   },
   "BDI": {
     "ISO2": "BI",
+    "Cod_Country": 328,
     "Country": "Burundi",
     "Country_Abr": "Burundi",
     "Capital": "Bujumbura",
@@ -307,6 +325,7 @@
   },
   "BEL": {
     "ISO2": "BE",
+    "Cod_Country": "017",
     "Country": "Belgium",
     "Country_Abr": "Belgium",
     "Capital": "Brussels",
@@ -324,6 +343,7 @@
   },
   "BEN": {
     "ISO2": "BJ",
+    "Cod_Country": 284,
     "Country": "Benin",
     "Country_Abr": "Benin",
     "Capital": "Porto-Novo",
@@ -341,6 +361,7 @@
   },
   "BES": {
     "ISO2": "BQ",
+    "Cod_Country": null,
     "Country": "Bonaire, Sint Eustatius and Saba",
     "Country_Abr": "Bonaire",
     "Capital": "Kralendijk",
@@ -358,6 +379,7 @@
   },
   "BFA": {
     "ISO2": "BF",
+    "Cod_Country": 236,
     "Country": "Burkina Faso",
     "Country_Abr": "Burkina Faso",
     "Capital": "Ouagadougou",
@@ -375,6 +397,7 @@
   },
   "BGD": {
     "ISO2": "BD",
+    "Cod_Country": 666,
     "Country": "Bangladesh",
     "Country_Abr": "Bangladesh",
     "Capital": "Dhaka",
@@ -392,6 +415,7 @@
   },
   "BGR": {
     "ISO2": "BG",
+    "Cod_Country": "068",
     "Country": "Bulgaria",
     "Country_Abr": "Bulgaria",
     "Capital": "Sofia",
@@ -409,6 +433,7 @@
   },
   "BHR": {
     "ISO2": "BH",
+    "Cod_Country": 640,
     "Country": "Bahrain",
     "Country_Abr": "Bahrain",
     "Capital": "Al-Manamah",
@@ -426,6 +451,7 @@
   },
   "BHS": {
     "ISO2": "BS",
+    "Cod_Country": 453,
     "Country": "Bahamas",
     "Country_Abr": "Bahamas",
     "Capital": "Nassau",
@@ -443,6 +469,7 @@
   },
   "BIH": {
     "ISO2": "BA",
+    "Cod_Country": "093",
     "Country": "Bosnia and Herzegovina",
     "Country_Abr": "Bosnia and Herzegovina",
     "Capital": "Sarajevo",
@@ -460,6 +487,7 @@
   },
   "BLM": {
     "ISO2": "BL",
+    "Cod_Country": null,
     "Country": "Saint Barthélemy",
     "Country_Abr": "Saint Barthélemy",
     "Capital": "Gustavia",
@@ -477,6 +505,7 @@
   },
   "BLR": {
     "ISO2": "BY",
+    "Cod_Country": "073",
     "Country": "Belarus",
     "Country_Abr": "Belarus",
     "Capital": "Minsk",
@@ -494,6 +523,7 @@
   },
   "BLZ": {
     "ISO2": "BZ",
+    "Cod_Country": 421,
     "Country": "Belize",
     "Country_Abr": "Belize",
     "Capital": "Belmopan",
@@ -511,6 +541,7 @@
   },
   "BMU": {
     "ISO2": "BM",
+    "Cod_Country": 413,
     "Country": "Bermuda",
     "Country_Abr": "Bermuda",
     "Capital": "Hamilton",
@@ -528,6 +559,7 @@
   },
   "BOL": {
     "ISO2": "BO",
+    "Cod_Country": 516,
     "Country": "Bolivia",
     "Country_Abr": "Bolivia",
     "Capital": "La Paz",
@@ -545,6 +577,7 @@
   },
   "BRA": {
     "ISO2": "BR",
+    "Cod_Country": 508,
     "Country": "Brazil",
     "Country_Abr": "Brazil",
     "Capital": "Brasilia",
@@ -562,6 +595,7 @@
   },
   "BRB": {
     "ISO2": "BB",
+    "Cod_Country": 469,
     "Country": "Barbados",
     "Country_Abr": "Barbados",
     "Capital": "Bridgetown",
@@ -579,6 +613,7 @@
   },
   "BRN": {
     "ISO2": "BN",
+    "Cod_Country": 703,
     "Country": "Brunei Darussalam",
     "Country_Abr": "Brunei Darussalam",
     "Capital": "Bandar Seri Begawan",
@@ -596,6 +631,7 @@
   },
   "BTN": {
     "ISO2": "BT",
+    "Cod_Country": 675,
     "Country": "Bhutan",
     "Country_Abr": "Bhutan",
     "Capital": "Thimphu",
@@ -613,6 +649,7 @@
   },
   "BVT": {
     "ISO2": "BV",
+    "Cod_Country": null,
     "Country": "Bouvet Island",
     "Country_Abr": "Bouvet Island",
     "Capital": "Bouvet Island",
@@ -630,6 +667,7 @@
   },
   "BWA": {
     "ISO2": "BW",
+    "Cod_Country": 391,
     "Country": "Botswana",
     "Country_Abr": "Botswana",
     "Capital": "Gaborone",
@@ -647,6 +685,7 @@
   },
   "CAF": {
     "ISO2": "CF",
+    "Cod_Country": 308,
     "Country": "Central African Republic",
     "Country_Abr": "Central African Republic",
     "Capital": "Bangui",
@@ -664,6 +703,7 @@
   },
   "CAN": {
     "ISO2": "CA",
+    "Cod_Country": 404,
     "Country": "Canada",
     "Country_Abr": "Canada",
     "Capital": "Ottawa",
@@ -681,6 +721,7 @@
   },
   "CCK": {
     "ISO2": "CC",
+    "Cod_Country": null,
     "Country": "Cocos (Keeling) Islands",
     "Country_Abr": "Cocos Islands",
     "Capital": "West Island",
@@ -698,6 +739,7 @@
   },
   "CHE": {
     "ISO2": "CH",
+    "Cod_Country": "039",
     "Country": "Switzerland",
     "Country_Abr": "Switzerland",
     "Capital": "Bern",
@@ -715,6 +757,7 @@
   },
   "CHL": {
     "ISO2": "CL",
+    "Cod_Country": 512,
     "Country": "Chile",
     "Country_Abr": "Chile",
     "Capital": "Santiago",
@@ -732,6 +775,7 @@
   },
   "CHN": {
     "ISO2": "CN",
+    "Cod_Country": 720,
     "Country": "China",
     "Country_Abr": "China",
     "Capital": "Beijing",
@@ -749,6 +793,7 @@
   },
   "CIV": {
     "ISO2": "CI",
+    "Cod_Country": 272,
     "Country": "Côte d'Ivoire",
     "Country_Abr": "Côte d'Ivoire",
     "Capital": "Yamoussoukro",
@@ -766,6 +811,7 @@
   },
   "CMR": {
     "ISO2": "CM",
+    "Cod_Country": 302,
     "Country": "Cameroon",
     "Country_Abr": "Cameroon",
     "Capital": "Yaounde",
@@ -783,6 +829,7 @@
   },
   "COD": {
     "ISO2": "CD",
+    "Cod_Country": 322,
     "Country": "Republic of the Congo",
     "Country_Abr": "Republic of the Congo",
     "Capital": "Kinshasa",
@@ -800,6 +847,7 @@
   },
   "COG": {
     "ISO2": "CG",
+    "Cod_Country": 318,
     "Country": "Congo",
     "Country_Abr": "Congo",
     "Capital": "Brazzaville",
@@ -817,6 +865,7 @@
   },
   "COK": {
     "ISO2": "CK",
+    "Cod_Country": null,
     "Country": "Cook Islands",
     "Country_Abr": "Cook Islands",
     "Capital": "Avarua",
@@ -834,6 +883,7 @@
   },
   "COL": {
     "ISO2": "CO",
+    "Cod_Country": 480,
     "Country": "Colombia",
     "Country_Abr": "Colombia",
     "Capital": "Bogota",
@@ -851,6 +901,7 @@
   },
   "COM": {
     "ISO2": "KM",
+    "Cod_Country": 375,
     "Country": "Comoros",
     "Country_Abr": "Comoros",
     "Capital": "Moroni",
@@ -868,6 +919,7 @@
   },
   "CPV": {
     "ISO2": "CV",
+    "Cod_Country": 247,
     "Country": "Cabo Verde",
     "Country_Abr": "Cabo Verde",
     "Capital": "Praia",
@@ -885,6 +937,7 @@
   },
   "CRI": {
     "ISO2": "CR",
+    "Cod_Country": 436,
     "Country": "Costa Rica",
     "Country_Abr": "Costa Rica",
     "Capital": "San Jose",
@@ -902,6 +955,7 @@
   },
   "CUB": {
     "ISO2": "CU",
+    "Cod_Country": 448,
     "Country": "Cuba",
     "Country_Abr": "Cuba",
     "Capital": "Havana",
@@ -919,6 +973,7 @@
   },
   "CUW": {
     "ISO2": "CW",
+    "Cod_Country": null,
     "Country": "Curaçao",
     "Country_Abr": "Curaçao",
     "Capital": "Willemstad",
@@ -936,6 +991,7 @@
   },
   "CXR": {
     "ISO2": "CX",
+    "Cod_Country": null,
     "Country": "Christmas Island",
     "Country_Abr": "Christmas Island",
     "Capital": "The Settlement",
@@ -953,6 +1009,7 @@
   },
   "CYM": {
     "ISO2": "KY",
+    "Cod_Country": 463,
     "Country": "Cayman Islands",
     "Country_Abr": "Cayman Islands",
     "Capital": "Georgetown",
@@ -970,6 +1027,7 @@
   },
   "CYP": {
     "ISO2": "CY",
+    "Cod_Country": 600,
     "Country": "Cyprus",
     "Country_Abr": "Cyprus",
     "Capital": "Nicosia",
@@ -987,6 +1045,7 @@
   },
   "CZE": {
     "ISO2": "CZ",
+    "Cod_Country": "061",
     "Country": "Czechia",
     "Country_Abr": "Czechia",
     "Capital": "Prague",
@@ -1004,6 +1063,7 @@
   },
   "DEU": {
     "ISO2": "DE",
+    "Cod_Country": "004",
     "Country": "Germany",
     "Country_Abr": "Germany",
     "Capital": "Berlin",
@@ -1021,6 +1081,7 @@
   },
   "DJI": {
     "ISO2": "DJ",
+    "Cod_Country": 338,
     "Country": "Djibouti",
     "Country_Abr": "Djibouti",
     "Capital": "Djibouti",
@@ -1038,6 +1099,7 @@
   },
   "DMA": {
     "ISO2": "DM",
+    "Cod_Country": 460,
     "Country": "Dominica",
     "Country_Abr": "Dominica",
     "Capital": "Roseau",
@@ -1055,6 +1117,7 @@
   },
   "DNK": {
     "ISO2": "DK",
+    "Cod_Country": "008",
     "Country": "Denmark",
     "Country_Abr": "Denmark",
     "Capital": "Copenhagen",
@@ -1072,6 +1135,7 @@
   },
   "DOM": {
     "ISO2": "DO",
+    "Cod_Country": 456,
     "Country": "Dominican Republic",
     "Country_Abr": "Dominican Republic",
     "Capital": "Santo Domingo",
@@ -1089,6 +1153,7 @@
   },
   "DZA": {
     "ISO2": "DZ",
+    "Cod_Country": 208,
     "Country": "Algeria",
     "Country_Abr": "Algeria",
     "Capital": "Algiers",
@@ -1106,6 +1171,7 @@
   },
   "ECU": {
     "ISO2": "EC",
+    "Cod_Country": 500,
     "Country": "Ecuador",
     "Country_Abr": "Ecuador",
     "Capital": "Quito",
@@ -1123,6 +1189,7 @@
   },
   "EGY": {
     "ISO2": "EG",
+    "Cod_Country": 220,
     "Country": "Egypt",
     "Country_Abr": "Egypt",
     "Capital": "Cairo",
@@ -1140,6 +1207,7 @@
   },
   "ERI": {
     "ISO2": "ER",
+    "Cod_Country": 336,
     "Country": "Eritrea",
     "Country_Abr": "Eritrea",
     "Capital": "Asmara",
@@ -1157,6 +1225,7 @@
   },
   "ESH": {
     "ISO2": "EH",
+    "Cod_Country": null,
     "Country": "Western Sahara",
     "Country_Abr": "Western Sahara",
     "Capital": "El Aaiun",
@@ -1174,6 +1243,7 @@
   },
   "ESP": {
     "ISO2": "ES",
+    "Cod_Country": "011",
     "Country": "Spain",
     "Country_Abr": "Spain",
     "Capital": "Madrid",
@@ -1191,6 +1261,7 @@
   },
   "EST": {
     "ISO2": "EE",
+    "Cod_Country": "053",
     "Country": "Estonia",
     "Country_Abr": "Estonia",
     "Capital": "Tallinn",
@@ -1208,6 +1279,7 @@
   },
   "ETH": {
     "ISO2": "ET",
+    "Cod_Country": 334,
     "Country": "Ethiopia",
     "Country_Abr": "Ethiopia",
     "Capital": "Addis Ababa",
@@ -1225,6 +1297,7 @@
   },
   "FIN": {
     "ISO2": "FI",
+    "Cod_Country": "032",
     "Country": "Finland",
     "Country_Abr": "Finland",
     "Capital": "Helsinki",
@@ -1242,6 +1315,7 @@
   },
   "FJI": {
     "ISO2": "FJ",
+    "Cod_Country": 815,
     "Country": "Fiji",
     "Country_Abr": "Fiji",
     "Capital": "Suva",
@@ -1259,6 +1333,7 @@
   },
   "FLK": {
     "ISO2": "FK",
+    "Cod_Country": 529,
     "Country": "Falkland Islands (Malvinas)",
     "Country_Abr": "Malvinas",
     "Capital": "Stanley",
@@ -1276,6 +1351,7 @@
   },
   "FRA": {
     "ISO2": "FR",
+    "Cod_Country": "001",
     "Country": "France",
     "Country_Abr": "France",
     "Capital": "Paris",
@@ -1293,6 +1369,7 @@
   },
   "FRO": {
     "ISO2": "FO",
+    "Cod_Country": "041",
     "Country": "Faroe Islands",
     "Country_Abr": "Faroe Islands",
     "Capital": "Torshavn",
@@ -1310,6 +1387,7 @@
   },
   "FSM": {
     "ISO2": "FM",
+    "Cod_Country": 823,
     "Country": "Micronesia (Federated States of)",
     "Country_Abr": "Micronesia",
     "Capital": "Palikir",
@@ -1327,6 +1405,7 @@
   },
   "GAB": {
     "ISO2": "GA",
+    "Cod_Country": 314,
     "Country": "Gabon",
     "Country_Abr": "Gabon",
     "Capital": "Libreville",
@@ -1344,6 +1423,7 @@
   },
   "GBR": {
     "ISO2": "GB",
+    "Cod_Country": "006",
     "Country": "United Kingdom of Great Britain and Northern Ireland",
     "Country_Abr": "UK",
     "Capital": "London",
@@ -1361,6 +1441,7 @@
   },
   "GEO": {
     "ISO2": "GE",
+    "Cod_Country": "076",
     "Country": "Georgia",
     "Country_Abr": "Georgia",
     "Capital": "Tbilisi",
@@ -1378,6 +1459,7 @@
   },
   "GGY": {
     "ISO2": "GG",
+    "Cod_Country": null,
     "Country": "Guernsey",
     "Country_Abr": "Guernsey",
     "Capital": "St. Peter Port",
@@ -1395,6 +1477,7 @@
   },
   "GHA": {
     "ISO2": "GH",
+    "Cod_Country": 276,
     "Country": "Ghana",
     "Country_Abr": "Ghana",
     "Capital": "Accra",
@@ -1412,6 +1495,7 @@
   },
   "GIB": {
     "ISO2": "GI",
+    "Cod_Country": "044",
     "Country": "Gibraltar",
     "Country_Abr": "Gibraltar",
     "Capital": "Gibraltar",
@@ -1429,6 +1513,7 @@
   },
   "GIN": {
     "ISO2": "GN",
+    "Cod_Country": 260,
     "Country": "Guinea",
     "Country_Abr": "Guinea",
     "Capital": "Conakry",
@@ -1446,6 +1531,7 @@
   },
   "GLP": {
     "ISO2": "GP",
+    "Cod_Country": null,
     "Country": "Guadeloupe",
     "Country_Abr": "Guadeloupe",
     "Capital": "Basse-Terre",
@@ -1463,6 +1549,7 @@
   },
   "GMB": {
     "ISO2": "GM",
+    "Cod_Country": 252,
     "Country": "Gambia",
     "Country_Abr": "Gambia",
     "Capital": "Banjul",
@@ -1480,6 +1567,7 @@
   },
   "GNB": {
     "ISO2": "GW",
+    "Cod_Country": 257,
     "Country": "Guinea-Bissau",
     "Country_Abr": "Guinea-Bissau",
     "Capital": "Bissau",
@@ -1497,6 +1585,7 @@
   },
   "GNQ": {
     "ISO2": "GQ",
+    "Cod_Country": 310,
     "Country": "Equatorial Guinea",
     "Country_Abr": "Equatorial Guinea",
     "Capital": "Malabo",
@@ -1514,6 +1603,7 @@
   },
   "GRC": {
     "ISO2": "GR",
+    "Cod_Country": "009",
     "Country": "Greece",
     "Country_Abr": "Greece",
     "Capital": "Athens",
@@ -1531,6 +1621,7 @@
   },
   "GRD": {
     "ISO2": "GD",
+    "Cod_Country": 473,
     "Country": "Grenada",
     "Country_Abr": "Grenada",
     "Capital": "St. George's",
@@ -1548,6 +1639,7 @@
   },
   "GRL": {
     "ISO2": "GL",
+    "Cod_Country": 406,
     "Country": "Greenland",
     "Country_Abr": "Greenland",
     "Capital": "Godthab",
@@ -1565,6 +1657,7 @@
   },
   "GTM": {
     "ISO2": "GT",
+    "Cod_Country": 416,
     "Country": "Guatemala",
     "Country_Abr": "Guatemala",
     "Capital": "Guatemala City",
@@ -1582,6 +1675,7 @@
   },
   "GUF": {
     "ISO2": "GF",
+    "Cod_Country": null,
     "Country": "French Guiana",
     "Country_Abr": "French Guiana",
     "Capital": "Cayenne",
@@ -1599,6 +1693,7 @@
   },
   "GUM": {
     "ISO2": "GU",
+    "Cod_Country": null,
     "Country": "Guam",
     "Country_Abr": "Guam",
     "Capital": "Agana",
@@ -1616,6 +1711,7 @@
   },
   "GUY": {
     "ISO2": "GY",
+    "Cod_Country": 488,
     "Country": "Guyana",
     "Country_Abr": "Guyana",
     "Capital": "Georgetown",
@@ -1633,6 +1729,7 @@
   },
   "HKG": {
     "ISO2": "HK",
+    "Cod_Country": 740,
     "Country": "Hong Kong",
     "Country_Abr": "Hong Kong",
     "Capital": "Victoria",
@@ -1650,6 +1747,7 @@
   },
   "HMD": {
     "ISO2": "HM",
+    "Cod_Country": null,
     "Country": "Heard Island and McDonald Islands",
     "Country_Abr": "Heard Island and McDonald Islands",
     "Capital": "Heard Island and McDonald Islands",
@@ -1667,6 +1765,7 @@
   },
   "HND": {
     "ISO2": "HN",
+    "Cod_Country": 424,
     "Country": "Honduras",
     "Country_Abr": "Honduras",
     "Capital": "Tegucigalpa",
@@ -1684,6 +1783,7 @@
   },
   "HRV": {
     "ISO2": "HR",
+    "Cod_Country": "092",
     "Country": "Croatia",
     "Country_Abr": "Croatia",
     "Capital": "Zagreb",
@@ -1701,6 +1801,7 @@
   },
   "HTI": {
     "ISO2": "HT",
+    "Cod_Country": 452,
     "Country": "Haiti",
     "Country_Abr": "Haiti",
     "Capital": "Port-au-Prince",
@@ -1718,6 +1819,7 @@
   },
   "HUN": {
     "ISO2": "HU",
+    "Cod_Country": "064",
     "Country": "Hungary",
     "Country_Abr": "Hungary",
     "Capital": "Budapest",
@@ -1735,6 +1837,7 @@
   },
   "IDN": {
     "ISO2": "ID",
+    "Cod_Country": 700,
     "Country": "Indonesia",
     "Country_Abr": "Indonesia",
     "Capital": "Jakarta",
@@ -1752,6 +1855,7 @@
   },
   "IMN": {
     "ISO2": "IM",
+    "Cod_Country": null,
     "Country": "Isle of Man",
     "Country_Abr": "Isle of Man",
     "Capital": "Douglas",
@@ -1769,6 +1873,7 @@
   },
   "IND": {
     "ISO2": "IN",
+    "Cod_Country": 664,
     "Country": "India",
     "Country_Abr": "India",
     "Capital": "New Delhi",
@@ -1786,6 +1891,7 @@
   },
   "IOT": {
     "ISO2": "IO",
+    "Cod_Country": 357,
     "Country": "British Indian Ocean Territory",
     "Country_Abr": "British Indian Ocean Territory",
     "Capital": "Camp Thunder Cove",
@@ -1803,6 +1909,7 @@
   },
   "IRL": {
     "ISO2": "IE",
+    "Cod_Country": "007",
     "Country": "Ireland",
     "Country_Abr": "Ireland",
     "Capital": "Dublin",
@@ -1820,6 +1927,7 @@
   },
   "IRN": {
     "ISO2": "IR",
+    "Cod_Country": 616,
     "Country": "Iran (Islamic Republic of)",
     "Country_Abr": "Iran",
     "Capital": "Tehran",
@@ -1837,6 +1945,7 @@
   },
   "IRQ": {
     "ISO2": "IQ",
+    "Cod_Country": 612,
     "Country": "Iraq",
     "Country_Abr": "Iraq",
     "Capital": "Baghdad",
@@ -1854,6 +1963,7 @@
   },
   "ISL": {
     "ISO2": "IS",
+    "Cod_Country": "024",
     "Country": "Iceland",
     "Country_Abr": "Iceland",
     "Capital": "Reykjavik",
@@ -1871,6 +1981,7 @@
   },
   "ISR": {
     "ISO2": "IL",
+    "Cod_Country": 624,
     "Country": "Israel",
     "Country_Abr": "Israel",
     "Capital": "Jerusalem",
@@ -1888,6 +1999,7 @@
   },
   "ITA": {
     "ISO2": "IT",
+    "Cod_Country": "005",
     "Country": "Italy",
     "Country_Abr": "Italy",
     "Capital": "Rome",
@@ -1905,6 +2017,7 @@
   },
   "JAM": {
     "ISO2": "JM",
+    "Cod_Country": 464,
     "Country": "Jamaica",
     "Country_Abr": "Jamaica",
     "Capital": "Kingston",
@@ -1922,6 +2035,7 @@
   },
   "JEY": {
     "ISO2": "JE",
+    "Cod_Country": null,
     "Country": "Jersey",
     "Country_Abr": "Jersey",
     "Capital": "Saint Helier",
@@ -1939,6 +2053,7 @@
   },
   "JOR": {
     "ISO2": "JO",
+    "Cod_Country": 628,
     "Country": "Jordan",
     "Country_Abr": "Jordan",
     "Capital": "Amman",
@@ -1956,6 +2071,7 @@
   },
   "JPN": {
     "ISO2": "JP",
+    "Cod_Country": 732,
     "Country": "Japan",
     "Country_Abr": "Japan",
     "Capital": "Tokyo",
@@ -1973,6 +2089,7 @@
   },
   "KAZ": {
     "ISO2": "KZ",
+    "Cod_Country": "079",
     "Country": "Kazakhstan",
     "Country_Abr": "Kazakhstan",
     "Capital": "Astana",
@@ -1990,6 +2107,7 @@
   },
   "KEN": {
     "ISO2": "KE",
+    "Cod_Country": 346,
     "Country": "Kenya",
     "Country_Abr": "Kenya",
     "Capital": "Nairobi",
@@ -2007,6 +2125,7 @@
   },
   "KGZ": {
     "ISO2": "KG",
+    "Cod_Country": "083",
     "Country": "Kyrgyzstan",
     "Country_Abr": "Kyrgyzstan",
     "Capital": "Bishkek",
@@ -2024,6 +2143,7 @@
   },
   "KHM": {
     "ISO2": "KH",
+    "Cod_Country": 696,
     "Country": "Cambodia",
     "Country_Abr": "Cambodia",
     "Capital": "Phnom Penh",
@@ -2041,6 +2161,7 @@
   },
   "KIR": {
     "ISO2": "KI",
+    "Cod_Country": 812,
     "Country": "Kiribati",
     "Country_Abr": "Kiribati",
     "Capital": "Tarawa",
@@ -2058,6 +2179,7 @@
   },
   "KNA": {
     "ISO2": "KN",
+    "Cod_Country": 449,
     "Country": "Saint Kitts and Nevis",
     "Country_Abr": "Saint Kitts and Nevis",
     "Capital": "Basseterre",
@@ -2075,6 +2197,7 @@
   },
   "KOR": {
     "ISO2": "KR",
+    "Cod_Country": 728,
     "Country": "South Korea",
     "Country_Abr": "South Korea",
     "Capital": "Seoul",
@@ -2092,6 +2215,7 @@
   },
   "KWT": {
     "ISO2": "KW",
+    "Cod_Country": 636,
     "Country": "Kuwait",
     "Country_Abr": "Kuwait",
     "Capital": "Kuwait City",
@@ -2109,6 +2233,7 @@
   },
   "LAO": {
     "ISO2": "LA",
+    "Cod_Country": 684,
     "Country": "Lao People's Democratic Republic",
     "Country_Abr": "Laos",
     "Capital": "Vientiane",
@@ -2126,6 +2251,7 @@
   },
   "LBN": {
     "ISO2": "LB",
+    "Cod_Country": 604,
     "Country": "Lebanon",
     "Country_Abr": "Lebanon",
     "Capital": "Beirut",
@@ -2143,6 +2269,7 @@
   },
   "LBR": {
     "ISO2": "LR",
+    "Cod_Country": 268,
     "Country": "Liberia",
     "Country_Abr": "Liberia",
     "Capital": "Monrovia",
@@ -2160,6 +2287,7 @@
   },
   "LBY": {
     "ISO2": "LY",
+    "Cod_Country": 216,
     "Country": "Libya",
     "Country_Abr": "Libya",
     "Capital": "Tripoli",
@@ -2177,6 +2305,7 @@
   },
   "LCA": {
     "ISO2": "LC",
+    "Cod_Country": 465,
     "Country": "Saint Lucia",
     "Country_Abr": "Saint Lucia",
     "Capital": "Castries",
@@ -2194,6 +2323,7 @@
   },
   "LIE": {
     "ISO2": "LI",
+    "Cod_Country": "037",
     "Country": "Liechtenstein",
     "Country_Abr": "Liechtenstein",
     "Capital": "Vaduz",
@@ -2211,6 +2341,7 @@
   },
   "LKA": {
     "ISO2": "LK",
+    "Cod_Country": 669,
     "Country": "Sri Lanka",
     "Country_Abr": "Sri Lanka",
     "Capital": "Colombo",
@@ -2228,6 +2359,7 @@
   },
   "LSO": {
     "ISO2": "LS",
+    "Cod_Country": 395,
     "Country": "Lesotho",
     "Country_Abr": "Lesotho",
     "Capital": "Maseru",
@@ -2245,6 +2377,7 @@
   },
   "LTU": {
     "ISO2": "LT",
+    "Cod_Country": "055",
     "Country": "Lithuania",
     "Country_Abr": "Lithuania",
     "Capital": "Vilnius",
@@ -2262,6 +2395,7 @@
   },
   "LUX": {
     "ISO2": "LU",
+    "Cod_Country": "018",
     "Country": "Luxembourg",
     "Country_Abr": "Luxembourg",
     "Capital": "Luxembourg",
@@ -2279,6 +2413,7 @@
   },
   "LVA": {
     "ISO2": "LV",
+    "Cod_Country": "054",
     "Country": "Latvia",
     "Country_Abr": "Latvia",
     "Capital": "Riga",
@@ -2296,6 +2431,7 @@
   },
   "MAC": {
     "ISO2": "MO",
+    "Cod_Country": 743,
     "Country": "Macao",
     "Country_Abr": "Macao",
     "Capital": "Macau",
@@ -2313,6 +2449,7 @@
   },
   "MAF": {
     "ISO2": "MF",
+    "Cod_Country": null,
     "Country": "Saint Martin (French part)",
     "Country_Abr": "Saint Martin (French part)",
     "Capital": "Marigot",
@@ -2330,6 +2467,7 @@
   },
   "MAR": {
     "ISO2": "MA",
+    "Cod_Country": 204,
     "Country": "Morocco",
     "Country_Abr": "Morocco",
     "Capital": "Rabat",
@@ -2347,6 +2485,7 @@
   },
   "MCO": {
     "ISO2": "MC",
+    "Cod_Country": null,
     "Country": "Monaco",
     "Country_Abr": "Monaco",
     "Capital": "Monaco",
@@ -2364,6 +2503,7 @@
   },
   "MDA": {
     "ISO2": "MD",
+    "Cod_Country": "074",
     "Country": "Moldova",
     "Country_Abr": "Moldova",
     "Capital": "Kishinev",
@@ -2381,6 +2521,7 @@
   },
   "MDG": {
     "ISO2": "MG",
+    "Cod_Country": 370,
     "Country": "Madagascar",
     "Country_Abr": "Madagascar",
     "Capital": "Antananarivo",
@@ -2398,6 +2539,7 @@
   },
   "MDV": {
     "ISO2": "MV",
+    "Cod_Country": 667,
     "Country": "Maldives",
     "Country_Abr": "Maldives",
     "Capital": "Male",
@@ -2415,6 +2557,7 @@
   },
   "MEX": {
     "ISO2": "MX",
+    "Cod_Country": 412,
     "Country": "Mexico",
     "Country_Abr": "Mexico",
     "Capital": "Mexico City",
@@ -2432,6 +2575,7 @@
   },
   "MHL": {
     "ISO2": "MH",
+    "Cod_Country": 824,
     "Country": "Marshall Islands",
     "Country_Abr": "Marshall Islands",
     "Capital": "Majuro",
@@ -2449,6 +2593,7 @@
   },
   "MKD": {
     "ISO2": "MK",
+    "Cod_Country": "096",
     "Country": "North Macedonia",
     "Country_Abr": "North Macedonia",
     "Capital": "Skopje",
@@ -2466,6 +2611,7 @@
   },
   "MLI": {
     "ISO2": "ML",
+    "Cod_Country": 232,
     "Country": "Mali",
     "Country_Abr": "Mali",
     "Capital": "Bamako",
@@ -2483,6 +2629,7 @@
   },
   "MLT": {
     "ISO2": "MT",
+    "Cod_Country": "046",
     "Country": "Malta",
     "Country_Abr": "Malta",
     "Capital": "Valletta",
@@ -2500,6 +2647,7 @@
   },
   "MMR": {
     "ISO2": "MM",
+    "Cod_Country": 676,
     "Country": "Myanmar",
     "Country_Abr": "Myanmar",
     "Capital": "Naypyidaw",
@@ -2517,6 +2665,7 @@
   },
   "MNE": {
     "ISO2": "ME",
+    "Cod_Country": null,
     "Country": "Montenegro",
     "Country_Abr": "Montenegro",
     "Capital": "Podgorica",
@@ -2534,6 +2683,7 @@
   },
   "MNG": {
     "ISO2": "MN",
+    "Cod_Country": 716,
     "Country": "Mongolia",
     "Country_Abr": "Mongolia",
     "Capital": "Ulan Bator",
@@ -2551,6 +2701,7 @@
   },
   "MNP": {
     "ISO2": "MP",
+    "Cod_Country": 820,
     "Country": "Northern Mariana Islands",
     "Country_Abr": "Northern Mariana Islands",
     "Capital": "Saipan",
@@ -2568,6 +2719,7 @@
   },
   "MOZ": {
     "ISO2": "MZ",
+    "Cod_Country": 366,
     "Country": "Mozambique",
     "Country_Abr": "Mozambique",
     "Capital": "Maputo",
@@ -2585,6 +2737,7 @@
   },
   "MRT": {
     "ISO2": "MR",
+    "Cod_Country": 228,
     "Country": "Mauritania",
     "Country_Abr": "Mauritania",
     "Capital": "Nouakchott",
@@ -2602,6 +2755,7 @@
   },
   "MSR": {
     "ISO2": "MS",
+    "Cod_Country": 470,
     "Country": "Montserrat",
     "Country_Abr": "Montserrat",
     "Capital": "Plymouth",
@@ -2619,6 +2773,7 @@
   },
   "MTQ": {
     "ISO2": "MQ",
+    "Cod_Country": null,
     "Country": "Martinique",
     "Country_Abr": "Martinique",
     "Capital": "Fort-de-France",
@@ -2636,6 +2791,7 @@
   },
   "MUS": {
     "ISO2": "MU",
+    "Cod_Country": 373,
     "Country": "Mauritius",
     "Country_Abr": "Mauritius",
     "Capital": "Port Louis",
@@ -2653,6 +2809,7 @@
   },
   "MWI": {
     "ISO2": "MW",
+    "Cod_Country": 386,
     "Country": "Malawi",
     "Country_Abr": "Malawi",
     "Capital": "Lilongwe",
@@ -2670,6 +2827,7 @@
   },
   "MYS": {
     "ISO2": "MY",
+    "Cod_Country": 701,
     "Country": "Malaysia",
     "Country_Abr": "Malaysia",
     "Capital": "Kuala Lumpur",
@@ -2687,6 +2845,7 @@
   },
   "MYT": {
     "ISO2": "YT",
+    "Cod_Country": null,
     "Country": "Mayotte",
     "Country_Abr": "Mayotte",
     "Capital": "Dzaoudzi",
@@ -2704,6 +2863,7 @@
   },
   "NAM": {
     "ISO2": "NA",
+    "Cod_Country": 389,
     "Country": "Namibia",
     "Country_Abr": "Namibia",
     "Capital": "Windhoek",
@@ -2721,6 +2881,7 @@
   },
   "NCL": {
     "ISO2": "NC",
+    "Cod_Country": 809,
     "Country": "New Caledonia",
     "Country_Abr": "New Caledonia",
     "Capital": "Noumea",
@@ -2738,6 +2899,7 @@
   },
   "NER": {
     "ISO2": "NE",
+    "Cod_Country": 240,
     "Country": "Niger",
     "Country_Abr": "Niger",
     "Capital": "Niamey",
@@ -2755,6 +2917,7 @@
   },
   "NFK": {
     "ISO2": "NF",
+    "Cod_Country": null,
     "Country": "Norfolk Island",
     "Country_Abr": "Norfolk Island",
     "Capital": "Kingston",
@@ -2772,6 +2935,7 @@
   },
   "NGA": {
     "ISO2": "NG",
+    "Cod_Country": 288,
     "Country": "Nigeria",
     "Country_Abr": "Nigeria",
     "Capital": "Abuja",
@@ -2789,6 +2953,7 @@
   },
   "NIC": {
     "ISO2": "NI",
+    "Cod_Country": 432,
     "Country": "Nicaragua",
     "Country_Abr": "Nicaragua",
     "Capital": "Managua",
@@ -2806,6 +2971,7 @@
   },
   "NIU": {
     "ISO2": "NU",
+    "Cod_Country": null,
     "Country": "Niue",
     "Country_Abr": "Niue",
     "Capital": "Alofi",
@@ -2823,6 +2989,7 @@
   },
   "NLD": {
     "ISO2": "NL",
+    "Cod_Country": "003",
     "Country": "Netherlands",
     "Country_Abr": "Netherlands",
     "Capital": "Amsterdam",
@@ -2840,6 +3007,7 @@
   },
   "NOR": {
     "ISO2": "NO",
+    "Cod_Country": "028",
     "Country": "Norway",
     "Country_Abr": "Norway",
     "Capital": "Oslo",
@@ -2857,6 +3025,7 @@
   },
   "NPL": {
     "ISO2": "NP",
+    "Cod_Country": 672,
     "Country": "Nepal",
     "Country_Abr": "Nepal",
     "Capital": "Kathmandu",
@@ -2874,6 +3043,7 @@
   },
   "NRU": {
     "ISO2": "NR",
+    "Cod_Country": 803,
     "Country": "Nauru",
     "Country_Abr": "Nauru",
     "Capital": "Yaren",
@@ -2891,6 +3061,7 @@
   },
   "NZL": {
     "ISO2": "NZ",
+    "Cod_Country": 804,
     "Country": "New Zealand",
     "Country_Abr": "New Zealand",
     "Capital": "Wellington",
@@ -2908,6 +3079,7 @@
   },
   "OMN": {
     "ISO2": "OM",
+    "Cod_Country": 649,
     "Country": "Oman",
     "Country_Abr": "Oman",
     "Capital": "Muscat",
@@ -2925,6 +3097,7 @@
   },
   "PAK": {
     "ISO2": "PK",
+    "Cod_Country": 662,
     "Country": "Pakistan",
     "Country_Abr": "Pakistan",
     "Capital": "Islamabad",
@@ -2942,6 +3115,7 @@
   },
   "PAN": {
     "ISO2": "PA",
+    "Cod_Country": 442,
     "Country": "Panama",
     "Country_Abr": "Panama",
     "Capital": "Panama City",
@@ -2959,6 +3133,7 @@
   },
   "PCN": {
     "ISO2": "PN",
+    "Cod_Country": 813,
     "Country": "Pitcairn",
     "Country_Abr": "Pitcairn",
     "Capital": "Adamstown",
@@ -2976,6 +3151,7 @@
   },
   "PER": {
     "ISO2": "PE",
+    "Cod_Country": 504,
     "Country": "Peru",
     "Country_Abr": "Peru",
     "Capital": "Lima",
@@ -2993,6 +3169,7 @@
   },
   "PHL": {
     "ISO2": "PH",
+    "Cod_Country": 708,
     "Country": "Philippines",
     "Country_Abr": "Philippines",
     "Capital": "Manila",
@@ -3010,6 +3187,7 @@
   },
   "PLW": {
     "ISO2": "PW",
+    "Cod_Country": 825,
     "Country": "Palau",
     "Country_Abr": "Palau",
     "Capital": "Ngerulmud",
@@ -3027,6 +3205,7 @@
   },
   "PNG": {
     "ISO2": "PG",
+    "Cod_Country": 801,
     "Country": "Papua New Guinea",
     "Country_Abr": "Papua New Guinea",
     "Capital": "Port Moresby",
@@ -3044,6 +3223,7 @@
   },
   "POL": {
     "ISO2": "PL",
+    "Cod_Country": "060",
     "Country": "Poland",
     "Country_Abr": "Poland",
     "Capital": "Warsaw",
@@ -3061,6 +3241,7 @@
   },
   "PRI": {
     "ISO2": "PR",
+    "Cod_Country": null,
     "Country": "Puerto Rico",
     "Country_Abr": "Puerto Rico",
     "Capital": "San Juan",
@@ -3078,6 +3259,7 @@
   },
   "PRK": {
     "ISO2": "KP",
+    "Cod_Country": 724,
     "Country": "North Korea",
     "Country_Abr": "North Korea",
     "Capital": "Pyongyang",
@@ -3095,6 +3277,7 @@
   },
   "PRT": {
     "ISO2": "PT",
+    "Cod_Country": "010",
     "Country": "Portugal",
     "Country_Abr": "Portugal",
     "Capital": "Lisbon",
@@ -3112,6 +3295,7 @@
   },
   "PRY": {
     "ISO2": "PY",
+    "Cod_Country": 520,
     "Country": "Paraguay",
     "Country_Abr": "Paraguay",
     "Capital": "Asuncion",
@@ -3129,6 +3313,7 @@
   },
   "PSE": {
     "ISO2": "PS",
+    "Cod_Country": 625,
     "Country": "State of Palestine",
     "Country_Abr": "State of Palestine",
     "Capital": "Jerusalem",
@@ -3146,6 +3331,7 @@
   },
   "PYF": {
     "ISO2": "PF",
+    "Cod_Country": 822,
     "Country": "French Polynesia",
     "Country_Abr": "French Polynesia",
     "Capital": "Papeete",
@@ -3163,6 +3349,7 @@
   },
   "QAT": {
     "ISO2": "QA",
+    "Cod_Country": 644,
     "Country": "Qatar",
     "Country_Abr": "Qatar",
     "Capital": "Doha",
@@ -3180,6 +3367,7 @@
   },
   "REU": {
     "ISO2": "RE",
+    "Cod_Country": null,
     "Country": "Réunion",
     "Country_Abr": "Réunion",
     "Capital": "Saint-Denis",
@@ -3197,6 +3385,7 @@
   },
   "ROU": {
     "ISO2": "RO",
+    "Cod_Country": "066",
     "Country": "Romania",
     "Country_Abr": "Romania",
     "Capital": "Bucharest",
@@ -3214,6 +3403,7 @@
   },
   "RUS": {
     "ISO2": "RU",
+    "Cod_Country": "075",
     "Country": "Russian Federation",
     "Country_Abr": "Russia",
     "Capital": "Moscow",
@@ -3231,6 +3421,7 @@
   },
   "RWA": {
     "ISO2": "RW",
+    "Cod_Country": 324,
     "Country": "Rwanda",
     "Country_Abr": "Rwanda",
     "Capital": "Kigali",
@@ -3248,6 +3439,7 @@
   },
   "SAU": {
     "ISO2": "SA",
+    "Cod_Country": 632,
     "Country": "Saudi Arabia",
     "Country_Abr": "Saudi Arabia",
     "Capital": "Riyadh",
@@ -3265,6 +3457,7 @@
   },
   "SDN": {
     "ISO2": "SD",
+    "Cod_Country": 224,
     "Country": "Sudan",
     "Country_Abr": "Sudan",
     "Capital": "Khartoum",
@@ -3282,6 +3475,7 @@
   },
   "SEN": {
     "ISO2": "SN",
+    "Cod_Country": 248,
     "Country": "Senegal",
     "Country_Abr": "Senegal",
     "Capital": "Dakar",
@@ -3299,6 +3493,7 @@
   },
   "SGP": {
     "ISO2": "SG",
+    "Cod_Country": 706,
     "Country": "Singapore",
     "Country_Abr": "Singapore",
     "Capital": "Singapore",
@@ -3316,6 +3511,7 @@
   },
   "SGS": {
     "ISO2": "GS",
+    "Cod_Country": null,
     "Country": "South Georgia and the South Sandwich Islands",
     "Country_Abr": "South Georgia and the South Sandwich Islands",
     "Capital": "Base King Edward Point",
@@ -3333,6 +3529,7 @@
   },
   "SHN": {
     "ISO2": "SH",
+    "Cod_Country": 329,
     "Country": "Saint Helena, Ascension and Tristan da Cunha",
     "Country_Abr": "Saint Helena",
     "Capital": "Jamestown",
@@ -3350,6 +3547,7 @@
   },
   "SJM": {
     "ISO2": "SJ",
+    "Cod_Country": null,
     "Country": "Svalbard and Jan Mayen",
     "Country_Abr": "Svalbard and Jan Mayen",
     "Capital": "Longyearbyen",
@@ -3367,6 +3565,7 @@
   },
   "SLB": {
     "ISO2": "SB",
+    "Cod_Country": 806,
     "Country": "Solomon Islands",
     "Country_Abr": "Solomon Islands",
     "Capital": "Honiara",
@@ -3384,6 +3583,7 @@
   },
   "SLE": {
     "ISO2": "SL",
+    "Cod_Country": 264,
     "Country": "Sierra Leone",
     "Country_Abr": "Sierra Leone",
     "Capital": "Freetown",
@@ -3401,6 +3601,7 @@
   },
   "SLV": {
     "ISO2": "SV",
+    "Cod_Country": 428,
     "Country": "El Salvador",
     "Country_Abr": "El Salvador",
     "Capital": "San Salvador",
@@ -3418,6 +3619,7 @@
   },
   "SMR": {
     "ISO2": "SM",
+    "Cod_Country": "047",
     "Country": "San Marino",
     "Country_Abr": "San Marino",
     "Capital": "San Marino",
@@ -3435,6 +3637,7 @@
   },
   "SOM": {
     "ISO2": "SO",
+    "Cod_Country": 342,
     "Country": "Somalia",
     "Country_Abr": "Somalia",
     "Capital": "Mogadishu",
@@ -3452,6 +3655,7 @@
   },
   "SPM": {
     "ISO2": "PM",
+    "Cod_Country": 408,
     "Country": "Saint Pierre and Miquelon",
     "Country_Abr": "Saint Pierre and Miquelon",
     "Capital": "St. Pierre",
@@ -3469,6 +3673,7 @@
   },
   "SRB": {
     "ISO2": "RS",
+    "Cod_Country": "094",
     "Country": "Serbia",
     "Country_Abr": "Serbia",
     "Capital": "Belgrade",
@@ -3486,6 +3691,7 @@
   },
   "SSD": {
     "ISO2": "SS",
+    "Cod_Country": null,
     "Country": "South Sudan",
     "Country_Abr": "South Sudan",
     "Capital": "Juba",
@@ -3503,6 +3709,7 @@
   },
   "STP": {
     "ISO2": "ST",
+    "Cod_Country": 311,
     "Country": "Sao Tome and Principe",
     "Country_Abr": "Sao Tome and Principe",
     "Capital": "Sao Tome",
@@ -3520,6 +3727,7 @@
   },
   "SUR": {
     "ISO2": "SR",
+    "Cod_Country": 492,
     "Country": "Suriname",
     "Country_Abr": "Suriname",
     "Capital": "Paramaribo",
@@ -3537,6 +3745,7 @@
   },
   "SVK": {
     "ISO2": "SK",
+    "Cod_Country": "063",
     "Country": "Slovakia",
     "Country_Abr": "Slovakia",
     "Capital": "Bratislava",
@@ -3554,6 +3763,7 @@
   },
   "SVN": {
     "ISO2": "SI",
+    "Cod_Country": "091",
     "Country": "Slovenia",
     "Country_Abr": "Slovenia",
     "Capital": "Ljubljana",
@@ -3571,6 +3781,7 @@
   },
   "SWE": {
     "ISO2": "SE",
+    "Cod_Country": "030",
     "Country": "Sweden",
     "Country_Abr": "Sweden",
     "Capital": "Stockholm",
@@ -3588,6 +3799,7 @@
   },
   "SWZ": {
     "ISO2": "SZ",
+    "Cod_Country": 393,
     "Country": "Eswatini",
     "Country_Abr": "Eswatini",
     "Capital": "Mbabane",
@@ -3605,6 +3817,7 @@
   },
   "SXM": {
     "ISO2": "SX",
+    "Cod_Country": null,
     "Country": "Sint Maarten (Dutch part)",
     "Country_Abr": "Sint Maarten (Dutch part)",
     "Capital": "Philipsburg",
@@ -3622,6 +3835,7 @@
   },
   "SYC": {
     "ISO2": "SC",
+    "Cod_Country": 355,
     "Country": "Seychelles",
     "Country_Abr": "Seychelles",
     "Capital": "Victoria",
@@ -3639,6 +3853,7 @@
   },
   "SYR": {
     "ISO2": "SY",
+    "Cod_Country": 608,
     "Country": "Syrian Arab Republic",
     "Country_Abr": "Syrian Arab Republic",
     "Capital": "Damascus",
@@ -3656,6 +3871,7 @@
   },
   "TCA": {
     "ISO2": "TC",
+    "Cod_Country": 454,
     "Country": "Turks and Caicos Islands",
     "Country_Abr": "Turks and Caicos Islands",
     "Capital": "Grand Turk",
@@ -3673,6 +3889,7 @@
   },
   "TCD": {
     "ISO2": "TD",
+    "Cod_Country": 244,
     "Country": "Chad",
     "Country_Abr": "Chad",
     "Capital": "N'Djamena",
@@ -3690,6 +3907,7 @@
   },
   "TGO": {
     "ISO2": "TG",
+    "Cod_Country": 280,
     "Country": "Togo",
     "Country_Abr": "Togo",
     "Capital": "Lome",
@@ -3707,6 +3925,7 @@
   },
   "THA": {
     "ISO2": "TH",
+    "Cod_Country": 680,
     "Country": "Thailand",
     "Country_Abr": "Thailand",
     "Capital": "Bangkok",
@@ -3724,6 +3943,7 @@
   },
   "TJK": {
     "ISO2": "TJ",
+    "Cod_Country": "082",
     "Country": "Tajikistan",
     "Country_Abr": "Tajikistan",
     "Capital": "Dushanbe",
@@ -3741,6 +3961,7 @@
   },
   "TKL": {
     "ISO2": "TK",
+    "Cod_Country": null,
     "Country": "Tokelau",
     "Country_Abr": "Tokelau",
     "Capital": "Nukunonu",
@@ -3758,6 +3979,7 @@
   },
   "TKM": {
     "ISO2": "TM",
+    "Cod_Country": "080",
     "Country": "Turkmenistan",
     "Country_Abr": "Turkmenistan",
     "Capital": "Ashgabat",
@@ -3775,6 +3997,7 @@
   },
   "TLS": {
     "ISO2": "TL",
+    "Cod_Country": null,
     "Country": "Timor-Leste",
     "Country_Abr": "Timor-Leste",
     "Capital": "Dili",
@@ -3792,6 +4015,7 @@
   },
   "TON": {
     "ISO2": "TO",
+    "Cod_Country": 817,
     "Country": "Tonga",
     "Country_Abr": "Tonga",
     "Capital": "Nuku'alofa",
@@ -3809,6 +4033,7 @@
   },
   "TTO": {
     "ISO2": "TT",
+    "Cod_Country": 472,
     "Country": "Trinidad and Tobago",
     "Country_Abr": "Trinidad and Tobago",
     "Capital": "Port of Spain",
@@ -3826,6 +4051,7 @@
   },
   "TUN": {
     "ISO2": "TN",
+    "Cod_Country": 212,
     "Country": "Tunisia",
     "Country_Abr": "Tunisia",
     "Capital": "Tunis",
@@ -3843,6 +4069,7 @@
   },
   "TUR": {
     "ISO2": "TR",
+    "Cod_Country": "052",
     "Country": "Turkey",
     "Country_Abr": "Turkey",
     "Capital": "Ankara",
@@ -3860,6 +4087,7 @@
   },
   "TUV": {
     "ISO2": "TV",
+    "Cod_Country": 808,
     "Country": "Tuvalu",
     "Country_Abr": "Tuvalu",
     "Capital": "Funafuti",
@@ -3877,6 +4105,7 @@
   },
   "TWN": {
     "ISO2": "TW",
+    "Cod_Country": 736,
     "Country": "Taiwan, Province of China",
     "Country_Abr": "Taiwan",
     "Capital": "Taipei",
@@ -3894,6 +4123,7 @@
   },
   "TZA": {
     "ISO2": "TZ",
+    "Cod_Country": 352,
     "Country": "United Republic of Tanzania",
     "Country_Abr": "Tanzania",
     "Capital": "Dodoma",
@@ -3911,6 +4141,7 @@
   },
   "UGA": {
     "ISO2": "UG",
+    "Cod_Country": 350,
     "Country": "Uganda",
     "Country_Abr": "Uganda",
     "Capital": "Kampala",
@@ -3928,6 +4159,7 @@
   },
   "UKR": {
     "ISO2": "UA",
+    "Cod_Country": "072",
     "Country": "Ukraine",
     "Country_Abr": "Ukraine",
     "Capital": "Kiev",
@@ -3945,6 +4177,7 @@
   },
   "URY": {
     "ISO2": "UY",
+    "Cod_Country": 524,
     "Country": "Uruguay",
     "Country_Abr": "Uruguay",
     "Capital": "Montevideo",
@@ -3962,6 +4195,7 @@
   },
   "UMI": {
     "ISO2": "UM",
+    "Cod_Country": null,
     "Country": "United States Minor Outlying Islands",
     "Country_Abr": "United States Minor Outlying Islands",
     "Capital": "Palmyra Atoll",
@@ -3979,6 +4213,7 @@
   },
   "USA": {
     "ISO2": "US",
+    "Cod_Country": 400,
     "Country": "United States of America",
     "Country_Abr": "USA",
     "Capital": "Washington",
@@ -3996,6 +4231,7 @@
   },
   "UZB": {
     "ISO2": "UZ",
+    "Cod_Country": "081",
     "Country": "Uzbekistan",
     "Country_Abr": "Uzbekistan",
     "Capital": "Tashkent",
@@ -4013,6 +4249,7 @@
   },
   "VAT": {
     "ISO2": "VA",
+    "Cod_Country": "045",
     "Country": "Holy See",
     "Country_Abr": "Holy See",
     "Capital": "Vatican City",
@@ -4030,6 +4267,7 @@
   },
   "VCT": {
     "ISO2": "VC",
+    "Cod_Country": 467,
     "Country": "Saint Vincent and the Grenadines",
     "Country_Abr": "Saint Vincent and the Grenadines",
     "Capital": "Kingstown",
@@ -4047,6 +4285,7 @@
   },
   "VEN": {
     "ISO2": "VE",
+    "Cod_Country": 484,
     "Country": "Venezuela (Bolivarian Republic of)",
     "Country_Abr": "Venezuela",
     "Capital": "Caracas",
@@ -4064,6 +4303,7 @@
   },
   "VGB": {
     "ISO2": "VG",
+    "Cod_Country": 468,
     "Country": "Virgin Islands (British)",
     "Country_Abr": "Virgin Islands (British)",
     "Capital": "Road Town",
@@ -4081,6 +4321,7 @@
   },
   "VIR": {
     "ISO2": "VI",
+    "Cod_Country": 457,
     "Country": "Virgin Islands (U.S.)",
     "Country_Abr": "Virgin Islands (U.S.)",
     "Capital": "Charlotte Amalie",
@@ -4098,6 +4339,7 @@
   },
   "VNM": {
     "ISO2": "VN",
+    "Cod_Country": 690,
     "Country": "Viet Nam",
     "Country_Abr": "Viet Nam",
     "Capital": "Hanoi",
@@ -4115,6 +4357,7 @@
   },
   "VUT": {
     "ISO2": "VU",
+    "Cod_Country": 816,
     "Country": "Vanuatu",
     "Country_Abr": "Vanuatu",
     "Capital": "Port Vila",
@@ -4132,6 +4375,7 @@
   },
   "WLF": {
     "ISO2": "WF",
+    "Cod_Country": 811,
     "Country": "Wallis and Futuna",
     "Country_Abr": "Wallis and Futuna",
     "Capital": "Mata-Utu",
@@ -4149,6 +4393,7 @@
   },
   "WSM": {
     "ISO2": "WS",
+    "Cod_Country": 819,
     "Country": "Samoa",
     "Country_Abr": "Samoa",
     "Capital": "Apia",
@@ -4166,6 +4411,7 @@
   },
   "XKX": {
     "ISO2": "XK",
+    "Cod_Country": null,
     "Country": "Kosovo",
     "Country_Abr": "Kosovo",
     "Capital": "Pristina",
@@ -4183,6 +4429,7 @@
   },
   "YEM": {
     "ISO2": "YE",
+    "Cod_Country": 653,
     "Country": "Yemen",
     "Country_Abr": "Yemen",
     "Capital": "San'a",
@@ -4200,6 +4447,7 @@
   },
   "ZAF": {
     "ISO2": "ZA",
+    "Cod_Country": 388,
     "Country": "South Africa",
     "Country_Abr": "South Africa",
     "Capital": "Pretoria",
@@ -4217,6 +4465,7 @@
   },
   "ZMB": {
     "ISO2": "ZM",
+    "Cod_Country": 378,
     "Country": "Zambia",
     "Country_Abr": "Zambia",
     "Capital": "Lusaka",
@@ -4234,6 +4483,7 @@
   },
   "ZWE": {
     "ISO2": "ZW",
+    "Cod_Country": 382,
     "Country": "Zimbabwe",
     "Country_Abr": "Zimbabwe",
     "Capital": "Harare",
